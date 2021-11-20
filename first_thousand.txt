@@ -1,0 +1,1001 @@
+{"name": "Doodle 1", "face": "holographic beard","hair": "white bucket cap","body": "purple sweater with satchel","background": "grey","head": "gradient 2"}
+{"name": "Doodle 2", "face": "designer glasses","hair": "poopie","body": "blue fleece","background": "yellow","head": "purple"}
+{"name": "Doodle 3", "face": "designer glasses","hair": "holographic mohawk","body": "pink fleece","background": "gradient 1","head": "pale"}
+{"name": "Doodle 4", "face": "happy","hair": "purple long","body": "spotted hoodie","background": "gradient 2","head": "purple"}
+{"name": "Doodle 5", "face": "designer glasses","hair": "green brushcut","body": "combo 2 puffer","background": "green","head": "blue"}
+{"name": "Doodle 6", "face": "designer glasses","hair": "purple cap","body": "blue fleece","background": "gradient 1","head": "gradient 2","piercing": "airpod"}
+{"name": "Doodle 7", "face": "surprised","hair": "purple alfalfa","body": "combo 3 puffer","background": "purple","head": "gradient 2"}
+{"name": "Doodle 8", "face": "in love","hair": "halo","body": "combo 1 puffer","background": "iridescent","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 9", "face": "blue check","hair": "blue messy","body": "white sweater","background": "light blue","head": "purple"}
+{"name": "Doodle 10", "face": "chill cig","hair": "green mullet","body": "leopard hoodie","background": "pink","head": "green","piercing": "pearl"}
+{"name": "Doodle 11", "face": "grumpy","hair": "purple brushcut","body": "blue and yellow jacket","background": "purple","head": "med"}
+{"name": "Doodle 12", "face": "default","hair": "cowboy","body": "yellow puffer","background": "grey","head": "yellow"}
+{"name": "Doodle 13", "face": "content","hair": "blue brushcut","body": "navy sweater","background": "orange","head": "tan"}
+{"name": "Doodle 14", "face": "default","hair": "purple cap","body": "pink backpack","background": "gradient 1","head": "pink"}
+{"name": "Doodle 15", "face": "surprised","hair": "blue mohawk","body": "rainbow striped sweater","background": "gradient 4","head": "blue"}
+{"name": "Doodle 16", "face": "aviators with cig","hair": "halo","body": "pink fleece","background": "green","head": "green"}
+{"name": "Doodle 17", "face": "green beard","hair": "blue puffballs","body": "white turtleneck","background": "purple","head": "yellow"}
+{"name": "Doodle 18", "face": "60s glasses","body": "navy sweater","background": "gradient 3","head": "coffee"}
+{"name": "Doodle 19", "face": "happy note","hair": "blue puffballs","body": "grey hoodie","background": "grey","head": "blue"}
+{"name": "Doodle 20", "face": "happy","hair": "brown mullet","body": "yellow backpack","background": "fire","head": "tan"}
+{"name": "Doodle 21", "face": "ape","hair": "blue ape","body": "white collar","background": "blue","head": "blue ape"}
+{"name": "Doodle 22", "face": "designer glasses","hair": "green mullet","body": "navy sweater","background": "blue","head": "blue"}
+{"name": "Doodle 23", "face": "content","hair": "blue toque","body": "pink and green jacket","background": "space","head": "pink"}
+{"name": "Doodle 24", "face": "blue beard","hair": "green bowlcut","body": "combo 2 puffer","background": "gradient 4","head": "purple","piercing": "pearl"}
+{"name": "Doodle 25", "face": "aviators with mustache","hair": "blue brushcut","body": "light blue puffer","background": "gradient 4","head": "gradient 2"}
+{"name": "Doodle 26", "face": "happy","hair": "blue messy","body": "green hoodie","background": "orange","head": "med","piercing": "hoop"}
+{"name": "Doodle 27", "face": "content","hair": "pink","body": "pink fleece","background": "orange","head": "pale","piercing": "hoop"}
+{"name": "Doodle 28", "face": "content","hair": "yellow backwards cap","body": "orange collar","background": "fire","head": "purple"}
+{"name": "Doodle 29", "face": "grumpy","hair": "helmet","body": "yellow puffer","background": "gradient 4","head": "tan"}
+{"name": "Doodle 30", "face": "happy","hair": "green brushcut","body": "yellow puffer","background": "gradient 3","head": "blue","piercing": "pearl"}
+{"name": "Doodle 31", "face": "grumpy","hair": "green bowlcut","body": "blue turtleneck","background": "gradient 2","head": "tan"}
+{"name": "Doodle 32", "face": "default","hair": "yellow backwards cap","body": "purple chain","background": "light blue","head": "pale"}
+{"name": "Doodle 33", "face": "chill cig","hair": "purple puffballs","body": "orange puffer","background": "holographic","head": "purple"}
+{"name": "Doodle 34", "face": "happy","hair": "crown","body": "green hoodie","background": "gradient 2","head": "purple"}
+{"name": "Doodle 35", "face": "in love","hair": "viking","body": "combo 1 puffer","background": "gradient 1","head": "green"}
+{"name": "Doodle 36", "face": "straw","hair": "white bucket cap","body": "yellow puffer","background": "grey","head": "blue"}
+{"name": "Doodle 37", "face": "default","hair": "pink bucket cap","body": "white puffer","background": "purple","head": "tan"}
+{"name": "Doodle 38", "face": "content","hair": "blue toque","body": "blue turtleneck","background": "light blue","head": "pink","piercing": "pearl"}
+{"name": "Doodle 39", "face": "grumpy","body": "leopard hoodie","background": "blue","head": "lit"}
+{"name": "Doodle 40", "face": "mustache","hair": "pink","body": "combo 2 puffer","background": "blue","head": "purple"}
+{"name": "Doodle 41", "face": "cobain glasses","hair": "green bowlcut","body": "leopard hoodie","background": "blue","head": "pale"}
+{"name": "Doodle 42", "face": "happy","hair": "yellow headband","body": "yellow turtleneck","background": "holographic","head": "green","piercing": "airpod"}
+{"name": "Doodle 43", "face": "content","hair": "pink headband","body": "grey hoodie","background": "gradient 3","head": "pale"}
+{"name": "Doodle 44", "face": "sunglasses","hair": "purple puffballs","body": "pink and green jacket","background": "fire","head": "tan"}
+{"name": "Doodle 45", "face": "chill cig","hair": "purple alfalfa","body": "pink backpack","background": "gradient 1","head": "yellow"}
+{"name": "Doodle 46", "face": "grumpy","hair": "brown mullet","body": "combo 1 puffer","background": "green","head": "blue"}
+{"name": "Doodle 47", "face": "sunglasses","background": "gradient 2","head": "balloon"}
+{"name": "Doodle 48", "face": "pink beard","hair": "yellow backwards cap","body": "orange puffer","background": "fire","head": "med","piercing": "pearl"}
+{"name": "Doodle 49", "face": "default","hair": "pink long","body": "blue turtleneck","background": "gradient 4","head": "green"}
+{"name": "Doodle 50", "face": "skeleton","hair": "blue puffballs","body": "pink fleece","background": "iridescent","head": "purple","piercing": "airpod"}
+{"name": "Doodle 51", "face": "aviators with mustache","hair": "brown mullet","body": "pink and white jacket","background": "purple","head": "pink"}
+{"name": "Doodle 52", "face": "pink beard","hair": "blue afro","body": "light blue puffer","background": "yellow","head": "orange"}
+{"name": "Doodle 53", "face": "grumpy","hair": "blue brushcut","body": "pink sweater with satchel","background": "gradient 1","head": "purple","piercing": "hoop"}
+{"name": "Doodle 54", "face": "content","hair": "pink","body": "blue and yellow jacket","background": "light blue","head": "orange"}
+{"name": "Doodle 55", "face": "rainbow puke","hair": "purple alfalfa","body": "combo 1 puffer","background": "gradient 3","head": "gradient 1"}
+{"name": "Doodle 56", "face": "pink beard","hair": "yellow bowlcut","body": "green hoodie","background": "yellow","head": "med","piercing": "pearl"}
+{"name": "Doodle 57", "face": "green beard","hair": "purple brushcut","body": "purple sweater with satchel","background": "grey","head": "pink"}
+{"name": "Doodle 58", "face": "surprised","hair": "pink tidy","body": "orange puffer","background": "iridescent","head": "yellow"}
+{"name": "Doodle 59", "face": "sunglasses","hair": "pink","body": "green hoodie","background": "grey","head": "orange"}
+{"name": "Doodle 60", "face": "chill cig","hair": "blue mohawk","body": "grey hoodie","background": "orange","head": "med"}
+{"name": "Doodle 61", "face": "straw","hair": "purple puffballs","body": "white sweater","background": "green","head": "yellow"}
+{"name": "Doodle 62", "face": "cobain glasses","hair": "blue messy","body": "yellow puffer","background": "gradient 3","head": "gradient 1"}
+{"name": "Doodle 63", "face": "surprised","hair": "yellow toque","body": "navy sweater","background": "gradient 1","head": "blue"}
+{"name": "Doodle 64", "face": "grumpy","hair": "shaved","body": "green blazer","background": "gradient 2","head": "orange"}
+{"name": "Doodle 65", "face": "aviators with cig","hair": "purple brushcut","body": "blue fleece","background": "yellow","head": "orange"}
+{"name": "Doodle 66", "face": "grumpy","hair": "blue brushcut","body": "white turtleneck","background": "pink","head": "pink","piercing": "pearl"}
+{"name": "Doodle 67", "face": "content","hair": "wizard","body": "combo 2 puffer","background": "space","head": "green"}
+{"name": "Doodle 68", "face": "aviators with mustache","hair": "purple cap","body": "pink puffer","background": "purple","head": "green"}
+{"name": "Doodle 69", "face": "mustache","hair": "blue nerd","body": "pink sweater with satchel","background": "orange","head": "green"}
+{"name": "Doodle 70", "face": "surprised","hair": "pink","body": "white turtleneck","background": "grey","head": "pink","piercing": "hoop"}
+{"name": "Doodle 71", "face": "designer glasses","hair": "pink long","body": "purple chain","background": "green","head": "pink"}
+{"name": "Doodle 72", "face": "3d glasses","hair": "purple puffballs","body": "yellow puffer","background": "purple","head": "gradient 2"}
+{"name": "Doodle 73", "face": "aviators with cig","hair": "blue afro","body": "blue fleece","background": "blue","head": "green"}
+{"name": "Doodle 74", "face": "pink beard","hair": "blue afro","body": "yellow turtleneck","background": "grey","head": "med"}
+{"name": "Doodle 75", "face": "whale","background": "gradient 3","head": "green"}
+{"name": "Doodle 76", "face": "grumpy","hair": "pink toque","body": "pink and white jacket","background": "light blue","head": "orange"}
+{"name": "Doodle 77", "face": "default","hair": "green puffballs","body": "green hoodie","background": "gradient 1","head": "pale"}
+{"name": "Doodle 78", "face": "designer glasses","hair": "blue mohawk","body": "pink and white jacket","background": "orange","head": "med","piercing": "hoop"}
+{"name": "Doodle 79", "face": "content","hair": "purple long","body": "pink hoodie","background": "green","head": "purple"}
+{"name": "Doodle 80", "face": "neutral note","hair": "blue brushcut","body": "yellow puffer","background": "purple","head": "orange"}
+{"name": "Doodle 81", "face": "skeleton","hair": "holographic brushcut","body": "yellow turtleneck","background": "blue","head": "gradient 1"}
+{"name": "Doodle 82", "face": "straw","hair": "helmet","body": "pink hoodie","background": "sky","head": "green"}
+{"name": "Doodle 83", "face": "surprised","hair": "green brushcut","body": "orange collar","background": "purple","head": "pink","piercing": "hoop"}
+{"name": "Doodle 84", "face": "pink beard","hair": "pink long","body": "green hoodie","background": "gradient 2","head": "yellow"}
+{"name": "Doodle 85", "face": "mustache","hair": "green brushcut","body": "pink and green jacket","background": "green","head": "tan","piercing": "pearl"}
+{"name": "Doodle 86", "face": "bandana","hair": "brown mullet","body": "pink sweater with satchel","background": "green","head": "gradient 1"}
+{"name": "Doodle 87", "face": "bandana","hair": "purple alfalfa","body": "blue fleece","background": "pink","head": "pale"}
+{"name": "Doodle 88", "face": "surprised","hair": "blue nerd","body": "combo 2 puffer","background": "sky","head": "med"}
+{"name": "Doodle 89", "face": "bandana","hair": "holographic afro","body": "pink puffer","background": "gradient 4","head": "yellow"}
+{"name": "Doodle 90", "face": "sunglasses","hair": "green puffballs","body": "white sweater","background": "orange","head": "med"}
+{"name": "Doodle 91", "face": "designer glasses","hair": "green puffballs","body": "navy sweater","background": "light blue","head": "pale"}
+{"name": "Doodle 92", "face": "straw","hair": "white bucket cap","body": "navy sweater","background": "purple","head": "green"}
+{"name": "Doodle 93", "face": "sunglasses","hair": "purple long","body": "blue and yellow jacket","background": "green","head": "gradient 2"}
+{"name": "Doodle 94", "face": "default","hair": "blue nerd","body": "orange collar","background": "orange","head": "pale"}
+{"name": "Doodle 95", "face": "neutral note","hair": "helmet","body": "pink hoodie","background": "gradient 4","head": "pale"}
+{"name": "Doodle 96", "face": "surprised","hair": "pink headband","body": "blue blazer","background": "yellow","head": "orange","piercing": "hoop"}
+{"name": "Doodle 97", "face": "default","hair": "green bowlcut","body": "purple sweater with satchel","background": "light blue","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 98", "face": "content","hair": "purple puffballs","body": "blue fleece","background": "green","head": "tan"}
+{"name": "Doodle 99", "face": "surprised","hair": "blue messy","body": "pink puffer","background": "blue","head": "med"}
+{"name": "Doodle 100", "face": "designer glasses","hair": "blue brushcut","body": "blue backpack","background": "pink","head": "orange"}
+{"name": "Doodle 101", "face": "aviators with mustache","hair": "yellow bowlcut","body": "purple chain","background": "iridescent","head": "blue"}
+{"name": "Doodle 102", "face": "sunglasses","hair": "green puffballs","body": "yellow turtleneck","background": "purple","head": "gradient 1","piercing": "pearl"}
+{"name": "Doodle 103", "face": "sad note","hair": "pink long","body": "white collar","background": "blue","head": "orange"}
+{"name": "Doodle 104", "face": "rainbow puke","hair": "pink","body": "blue fleece","background": "gradient 3","head": "tan"}
+{"name": "Doodle 105", "face": "designer glasses","hair": "shaved","body": "pink and white jacket","background": "yellow","head": "med"}
+{"name": "Doodle 106", "face": "content","hair": "yellow headband","body": "combo 2 puffer","background": "gradient 3","head": "pink","piercing": "airpod"}
+{"name": "Doodle 107", "face": "default","hair": "pink headband","body": "green hoodie","background": "gradient 4","head": "yellow"}
+{"name": "Doodle 108", "face": "content","hair": "yellow headband","body": "blue and yellow jacket","background": "pink","head": "orange"}
+{"name": "Doodle 109", "face": "default","hair": "cowboy","body": "blue and yellow jacket","background": "gradient 3","head": "gradient 2"}
+{"name": "Doodle 110", "face": "3d glasses","hair": "yellow headband","body": "pink fleece","background": "purple","head": "blue"}
+{"name": "Doodle 111", "face": "blue beard","hair": "pink bucket cap","body": "light blue puffer","background": "gradient 2","head": "blue"}
+{"name": "Doodle 112", "face": "designer glasses","body": "pink and white jacket","background": "pink","head": "devil"}
+{"name": "Doodle 113", "face": "bandana","hair": "blue mohawk","body": "pink hoodie","background": "gradient 1","head": "pale","piercing": "hoop"}
+{"name": "Doodle 114", "face": "surprised","hair": "purple brushcut","body": "white collar","background": "light blue","head": "pink"}
+{"name": "Doodle 115", "face": "bandana","hair": "purple alfalfa","body": "green hoodie","background": "pink","head": "purple","piercing": "hoop"}
+{"name": "Doodle 116", "face": "designer glasses","hair": "blue afro","body": "white turtleneck","background": "gradient 2","head": "orange","piercing": "airpod"}
+{"name": "Doodle 117", "face": "cobain glasses","hair": "purple puffballs","body": "orange collar","background": "gradient 2","head": "green"}
+{"name": "Doodle 118", "face": "green beard","hair": "blue mohawk","body": "blue turtleneck","background": "light blue","head": "pink"}
+{"name": "Doodle 119", "face": "default","hair": "blue afro","body": "light blue puffer","background": "purple","head": "blue","piercing": "hoop"}
+{"name": "Doodle 120", "face": "happy note","hair": "pink long","body": "pink fleece","background": "holographic","head": "green"}
+{"name": "Doodle 121", "face": "default","hair": "beige bucket cap","body": "purple chain","background": "gradient 2","head": "pale"}
+{"name": "Doodle 122", "face": "bandana","hair": "blue toque","body": "white turtleneck","background": "yellow","head": "gradient 2"}
+{"name": "Doodle 123", "face": "default","hair": "blue puffballs","body": "light blue puffer","background": "grey","head": "purple"}
+{"name": "Doodle 124", "face": "default","hair": "yellow toque","body": "blue backpack","background": "blue","head": "purple"}
+{"name": "Doodle 125", "face": "sunglasses","hair": "purple long","body": "pink and green jacket","background": "iridescent","head": "purple"}
+{"name": "Doodle 126", "face": "grumpy","hair": "shaved","body": "pink and white jacket","background": "grey","head": "tan"}
+{"name": "Doodle 127", "face": "content","hair": "pink long","body": "pink puffer","background": "pink","head": "med","piercing": "hoop"}
+{"name": "Doodle 128", "face": "aviators with mustache","hair": "brown brushcut","body": "orange collar","background": "orange","head": "pale"}
+{"name": "Doodle 129", "face": "chill cig","hair": "yellow backwards cap","body": "pink backpack","background": "gradient 4","head": "blue"}
+{"name": "Doodle 130", "face": "sunglasses","hair": "blue nerd","body": "green hoodie","background": "sky","head": "pink"}
+{"name": "Doodle 131", "face": "designer glasses","hair": "blue afro","body": "green blazer","background": "gradient 4","head": "purple"}
+{"name": "Doodle 132", "face": "sad note","hair": "pink tidy","body": "white turtleneck","background": "space","head": "tan","piercing": "pearl"}
+{"name": "Doodle 133", "face": "neutral note","hair": "purple puffballs","body": "white turtleneck","background": "space","head": "pale","piercing": "hoop"}
+{"name": "Doodle 134", "face": "mustache","hair": "pink tidy","body": "yellow puffer","background": "orange","head": "pink","piercing": "pearl"}
+{"name": "Doodle 135", "face": "cobain glasses","hair": "purple alfalfa","body": "blue and yellow jacket","background": "gradient 1","head": "green"}
+{"name": "Doodle 136", "face": "cobain glasses","hair": "blue brushcut","body": "grey hoodie","background": "orange","head": "green"}
+{"name": "Doodle 137", "face": "in love","hair": "halo","body": "purple sweater with satchel","background": "space","head": "blue"}
+{"name": "Doodle 138", "face": "mustache","hair": "pink bucket cap","body": "striped sweater","background": "gradient 2","head": "gradient 1"}
+{"name": "Doodle 139", "face": "default","hair": "blue messy","body": "combo 1 puffer","background": "blue","head": "orange"}
+{"name": "Doodle 140", "face": "rainbow puke","hair": "purple brushcut","body": "pink puffer","background": "grey","head": "med"}
+{"name": "Doodle 141", "face": "grumpy","hair": "poopie","body": "light blue puffer","background": "grey","head": "med"}
+{"name": "Doodle 142", "face": "straw","hair": "green mullet","body": "holographic sweater","background": "gradient 4","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 143", "face": "surprised","hair": "brown brushcut","body": "navy sweater","background": "gradient 4","head": "green"}
+{"name": "Doodle 144", "face": "content","hair": "blue brushcut","body": "yellow backpack","background": "gradient 4","head": "pale"}
+{"name": "Doodle 145", "face": "3d glasses","hair": "blue mohawk","body": "white puffer","background": "light blue","head": "gradient 2"}
+{"name": "Doodle 146", "face": "content","hair": "blue mohawk","body": "grey hoodie","background": "gradient 3","head": "orange"}
+{"name": "Doodle 147", "face": "skeleton","hair": "blue mohawk","body": "navy sweater","background": "gradient 2","head": "pale"}
+{"name": "Doodle 148", "face": "mad note","hair": "yellow toque","body": "orange collar","background": "gradient 3","head": "med","piercing": "hoop"}
+{"name": "Doodle 149", "face": "content","hair": "blue afro","body": "blue backpack","background": "gradient 2","head": "med"}
+{"name": "Doodle 150", "face": "happy","hair": "blue messy","body": "orange collar","background": "yellow","head": "green"}
+{"name": "Doodle 151", "face": "in love","hair": "poopie","body": "pink and green jacket","background": "grey","head": "yellow"}
+{"name": "Doodle 152", "face": "grumpy","hair": "blue nerd","body": "pink and white jacket","background": "gradient 3","head": "pink"}
+{"name": "Doodle 153", "face": "happy","hair": "white bucket cap","body": "combo 2 puffer","background": "gradient 4","head": "purple"}
+{"name": "Doodle 154", "face": "holographic beard","hair": "beige bucket cap","body": "yellow turtleneck","background": "grey","head": "tan","piercing": "pearl"}
+{"name": "Doodle 155", "face": "surprised","hair": "holographic afro","body": "yellow puffer","background": "grey","head": "gradient 1"}
+{"name": "Doodle 156", "face": "surprised","hair": "holographic afro","body": "yellow backpack","background": "pink","head": "pale"}
+{"name": "Doodle 157", "face": "content","hair": "beige bucket cap","body": "orange collar","background": "green","head": "gradient 1"}
+{"name": "Doodle 158", "face": "content","hair": "yellow backwards cap","body": "pink sweater with satchel","background": "gradient 3","head": "green"}
+{"name": "Doodle 159", "face": "chill cig","hair": "pink","body": "yellow turtleneck","background": "gradient 4","head": "purple"}
+{"name": "Doodle 160", "face": "mustache","hair": "pink toque","body": "white collar","background": "gradient 4","head": "blue","piercing": "hoop"}
+{"name": "Doodle 161", "face": "sunglasses","hair": "green mullet","body": "pink and green jacket","background": "yellow","head": "blue"}
+{"name": "Doodle 162", "face": "sunglasses","hair": "purple alfalfa","body": "navy sweater","background": "gradient 2","head": "green"}
+{"name": "Doodle 163", "face": "in love","hair": "pink headband","body": "pink and green jacket","background": "fire","head": "tan"}
+{"name": "Doodle 164", "face": "skeleton","hair": "yellow bowlcut","body": "blue fleece","background": "gradient 3","head": "gradient 1"}
+{"name": "Doodle 165", "face": "happy","hair": "pink bucket cap","body": "combo 1 puffer","background": "gradient 3","head": "tan"}
+{"name": "Doodle 166", "face": "designer glasses","hair": "blue afro","body": "pink puffer","background": "holographic","head": "med","piercing": "pearl"}
+{"name": "Doodle 167", "face": "designer glasses","hair": "poopie","body": "blue turtleneck","background": "yellow","head": "purple","piercing": "airpod"}
+{"name": "Doodle 168", "face": "happy","hair": "shaved","body": "combo 3 puffer","background": "grey","head": "orange"}
+{"name": "Doodle 169", "face": "happy","hair": "blue brushcut","body": "white sweater","background": "pink","head": "tan"}
+{"name": "Doodle 170", "face": "designer glasses","hair": "purple brushcut","body": "blue and yellow jacket","background": "gradient 4","head": "yellow"}
+{"name": "Doodle 171", "face": "grumpy","hair": "pink","body": "pink sweater with satchel","background": "blue","head": "orange"}
+{"name": "Doodle 172", "face": "grumpy","hair": "halo","body": "orange puffer","background": "gradient 1","head": "orange","piercing": "hoop"}
+{"name": "Doodle 173", "face": "default","hair": "helmet","body": "pink and white jacket","background": "green","head": "purple"}
+{"name": "Doodle 174", "face": "sunglasses","hair": "pink long","body": "blue fleece","background": "iridescent","head": "yellow"}
+{"name": "Doodle 175", "face": "blue beard","hair": "green puffballs","body": "combo 1 puffer","background": "gradient 3","head": "gradient 2"}
+{"name": "Doodle 176", "face": "content","hair": "purple puffballs","body": "light blue puffer","background": "gradient 3","head": "pink"}
+{"name": "Doodle 177", "face": "3d glasses","hair": "halo","body": "purple sweater with satchel","background": "yellow","head": "tan"}
+{"name": "Doodle 178", "face": "cobain glasses","hair": "purple alfalfa","body": "green blazer","background": "yellow","head": "blue","piercing": "hoop"}
+{"name": "Doodle 179", "face": "default","hair": "green mullet","body": "pink and white jacket","background": "gradient 2","head": "purple"}
+{"name": "Doodle 180", "face": "neutral note","hair": "green puffballs","body": "combo 2 puffer","background": "light blue","head": "orange"}
+{"name": "Doodle 181", "face": "straw","hair": "green bowlcut","body": "yellow backpack","background": "yellow","head": "green"}
+{"name": "Doodle 182", "face": "default","hair": "beige bucket cap","body": "pink backpack","background": "blue","head": "purple"}
+{"name": "Doodle 183", "face": "grumpy","hair": "pink bucket cap","body": "yellow turtleneck","background": "gradient 2","head": "tan"}
+{"name": "Doodle 184", "face": "happy","hair": "blue afro","body": "orange puffer","background": "yellow","head": "yellow"}
+{"name": "Doodle 185", "face": "surprised","hair": "brown mullet","body": "blue and yellow jacket","background": "holographic","head": "tan"}
+{"name": "Doodle 186", "face": "in love","hair": "green mullet","body": "white sweater","background": "grey","head": "med","piercing": "hoop"}
+{"name": "Doodle 187", "face": "content","hair": "white bucket cap","body": "purple chain","background": "gradient 2","head": "pink"}
+{"name": "Doodle 188", "face": "sad note","hair": "harley","body": "white sweater","background": "sky","head": "pale"}
+{"name": "Doodle 189", "face": "aviators with cig","body": "spotted hoodie","background": "orange","head": "rainbow","piercing": "pearl"}
+{"name": "Doodle 190", "face": "mad note","hair": "green puffballs","body": "yellow backpack","background": "gradient 1","head": "pale"}
+{"name": "Doodle 191", "face": "cobain glasses","hair": "pink headband","body": "pink and green jacket","background": "gradient 4","head": "purple"}
+{"name": "Doodle 192", "face": "happy","hair": "wizard","body": "pink fleece","background": "pink","head": "med"}
+{"name": "Doodle 193", "face": "default","hair": "purple alfalfa","body": "purple sweater with satchel","background": "blue","head": "pink"}
+{"name": "Doodle 194", "face": "chill cig","hair": "shaved","body": "yellow puffer","background": "orange","head": "tan"}
+{"name": "Doodle 195", "face": "mustache","hair": "brown brushcut","body": "yellow backpack","background": "space","head": "blue"}
+{"name": "Doodle 196", "face": "content","hair": "shaved","body": "blue turtleneck","background": "gradient 3","head": "pale"}
+{"name": "Doodle 197", "face": "mustache","hair": "yellow bowlcut","body": "pink sweater with satchel","background": "gradient 3","head": "orange","piercing": "airpod"}
+{"name": "Doodle 198", "face": "content","hair": "green puffballs","body": "striped sweater","background": "gradient 1","head": "med"}
+{"name": "Doodle 199", "face": "content","hair": "yellow toque","body": "purple sweater with satchel","background": "grey","head": "purple"}
+{"name": "Doodle 200", "face": "content","hair": "yellow bowlcut","body": "pink and white jacket","background": "pink","head": "yellow"}
+{"name": "Doodle 201", "face": "designer glasses","hair": "purple puffballs","body": "blue turtleneck","background": "gradient 1","head": "pale","piercing": "pearl"}
+{"name": "Doodle 202", "face": "default","hair": "yellow toque","body": "grey hoodie","background": "gradient 4","head": "purple"}
+{"name": "Doodle 203", "face": "in love","hair": "green bowlcut","body": "combo 2 puffer","background": "purple","head": "tan","piercing": "hoop"}
+{"name": "Doodle 204", "face": "3d glasses","hair": "halo","body": "blue turtleneck","background": "green","head": "blue"}
+{"name": "Doodle 205", "face": "chill cig","hair": "green brushcut","body": "white puffer","background": "gradient 3","head": "pale"}
+{"name": "Doodle 206", "face": "mad note","hair": "pink tidy","body": "yellow puffer","background": "space","head": "green","piercing": "pearl"}
+{"name": "Doodle 207", "face": "happy","hair": "pink long","body": "combo 3 puffer","background": "orange","head": "gradient 2"}
+{"name": "Doodle 208", "face": "sunglasses","hair": "brown brushcut","body": "pink hoodie","background": "pink","head": "purple"}
+{"name": "Doodle 209", "face": "green beard","hair": "blue afro","body": "white puffer","background": "gradient 1","head": "med"}
+{"name": "Doodle 210", "face": "surprised","hair": "purple puffballs","body": "pink sweater with satchel","background": "green","head": "green"}
+{"name": "Doodle 211", "face": "default","hair": "brown brushcut","body": "white puffer","background": "pink","head": "pale"}
+{"name": "Doodle 212", "face": "default","hair": "green brushcut","body": "holographic sweater","background": "gradient 4","head": "med","piercing": "airpod"}
+{"name": "Doodle 213", "face": "sunglasses","hair": "yellow bowlcut","body": "orange collar","background": "gradient 4","head": "purple","piercing": "hoop"}
+{"name": "Doodle 214", "face": "chill cig","hair": "purple puffballs","body": "combo 3 puffer","background": "gradient 4","head": "tan"}
+{"name": "Doodle 215", "face": "grumpy","body": "blue fleece","background": "blue","head": "lit"}
+{"name": "Doodle 216", "face": "mustache","hair": "viking","body": "pink fleece","background": "iridescent","head": "tan"}
+{"name": "Doodle 217", "face": "pink beard","hair": "purple brushcut","body": "blue blazer","background": "gradient 4","head": "med","piercing": "hoop"}
+{"name": "Doodle 218", "face": "cobain glasses","hair": "blue brushcut","body": "pink fleece","background": "gradient 1","head": "gradient 2"}
+{"name": "Doodle 219", "face": "sunglasses","hair": "purple cap","body": "white puffer","background": "pink","head": "green","piercing": "hoop"}
+{"name": "Doodle 220", "face": "happy","hair": "yellow headband","body": "pink backpack","background": "gradient 1","head": "pink"}
+{"name": "Doodle 221", "face": "neutral note","hair": "pink headband","body": "navy sweater","background": "green","head": "pink"}
+{"name": "Doodle 222", "face": "in love","hair": "purple long","body": "spotted hoodie","background": "green","head": "orange"}
+{"name": "Doodle 223", "face": "sunglasses","hair": "brown mullet","body": "combo 3 puffer","background": "purple","head": "orange"}
+{"name": "Doodle 224", "face": "bandana","hair": "brown mullet","body": "combo 3 puffer","background": "gradient 3","head": "med"}
+{"name": "Doodle 225", "face": "sunglasses","hair": "purple long","body": "navy sweater","background": "gradient 3","head": "blue","piercing": "hoop"}
+{"name": "Doodle 226", "face": "default","hair": "green puffballs","body": "orange puffer","background": "green","head": "orange","piercing": "pearl"}
+{"name": "Doodle 227", "face": "grumpy","hair": "green mullet","body": "green hoodie","background": "holographic","head": "blue","piercing": "pearl"}
+{"name": "Doodle 228", "face": "skeleton","hair": "blue mohawk","body": "green hoodie","background": "pink","head": "blue"}
+{"name": "Doodle 229", "face": "green beard","hair": "brown mullet","body": "green hoodie","background": "purple","head": "tan"}
+{"name": "Doodle 230", "face": "default","hair": "beige bucket cap","body": "yellow puffer","background": "gradient 2","head": "purple","piercing": "hoop"}
+{"name": "Doodle 231", "face": "grumpy","hair": "pink","body": "yellow puffer","background": "yellow","head": "yellow"}
+{"name": "Doodle 232", "face": "holographic beard","hair": "blue mohawk","body": "blue fleece","background": "light blue","head": "med","piercing": "pearl"}
+{"name": "Doodle 233", "face": "sunglasses","hair": "green bowlcut","body": "combo 3 puffer","background": "iridescent","head": "tan"}
+{"name": "Doodle 234", "face": "happy","hair": "brown mullet","body": "white puffer","background": "iridescent","head": "pale"}
+{"name": "Doodle 235", "face": "blue check","hair": "wizard","body": "white turtleneck","background": "grey","head": "purple","piercing": "airpod"}
+{"name": "Doodle 236", "face": "skeleton","hair": "blue puffballs","body": "yellow puffer","background": "gradient 1","head": "med"}
+{"name": "Doodle 237", "face": "3d glasses","hair": "blue afro","body": "white collar","background": "pink","head": "blue","piercing": "pearl"}
+{"name": "Doodle 238", "face": "happy","hair": "holographic afro","body": "blue fleece","background": "gradient 1","head": "tan"}
+{"name": "Doodle 239", "face": "rainbow puke","hair": "beige bucket cap","body": "light blue puffer","background": "iridescent","head": "gradient 1"}
+{"name": "Doodle 240", "face": "bandana","hair": "green puffballs","body": "blue backpack","background": "gradient 2","head": "purple"}
+{"name": "Doodle 241", "face": "chill cig","hair": "green bowlcut","body": "white collar","background": "orange","head": "blue"}
+{"name": "Doodle 242", "face": "aviators with mustache","hair": "brown brushcut","body": "striped sweater","background": "yellow","head": "gradient 1","piercing": "hoop"}
+{"name": "Doodle 243", "face": "holographic beard","background": "pink","head": "pickle"}
+{"name": "Doodle 244", "face": "default","hair": "brown mullet","body": "white sweater","background": "light blue","head": "green"}
+{"name": "Doodle 245", "face": "aviators with mustache","hair": "blue messy","body": "blue and yellow jacket","background": "gradient 1","head": "purple"}
+{"name": "Doodle 246", "face": "default","hair": "yellow headband","body": "combo 2 puffer","background": "purple","head": "blue"}
+{"name": "Doodle 247", "face": "holographic beard","hair": "yellow headband","body": "green hoodie","background": "yellow","head": "green"}
+{"name": "Doodle 248", "face": "happy","hair": "purple puffballs","body": "rainbow striped sweater","background": "blue","head": "pale"}
+{"name": "Doodle 249", "face": "default","hair": "blue nerd","body": "blue backpack","background": "blue","head": "orange","piercing": "airpod"}
+{"name": "Doodle 250", "face": "neutral note","hair": "beige bucket cap","body": "pink and white jacket","background": "holographic","head": "pale","piercing": "airpod"}
+{"name": "Doodle 251", "face": "cobain glasses","hair": "pink headband","body": "pink and white jacket","background": "gradient 3","head": "yellow","piercing": "airpod"}
+{"name": "Doodle 252", "face": "in love","hair": "blue puffballs","body": "pink sweater with satchel","background": "grey","head": "yellow"}
+{"name": "Doodle 253", "face": "grumpy","hair": "blue messy","body": "pink and white jacket","background": "blue","head": "pale"}
+{"name": "Doodle 254", "face": "content","hair": "pink bucket cap","body": "white puffer","background": "gradient 4","head": "pale"}
+{"name": "Doodle 255", "face": "happy note","hair": "yellow headband","body": "pink fleece","background": "green","head": "gradient 1"}
+{"name": "Doodle 256", "face": "designer glasses","hair": "pink tidy","body": "yellow backpack","background": "orange","head": "pink"}
+{"name": "Doodle 257", "face": "default","hair": "pink tidy","body": "pink hoodie","background": "pink","head": "orange","piercing": "airpod"}
+{"name": "Doodle 258", "face": "cobain glasses","hair": "blue alfalfa","body": "grey hoodie","background": "green","head": "orange"}
+{"name": "Doodle 259", "face": "aviators with mustache","hair": "blue nerd","body": "pink and white jacket","background": "pink","head": "gradient 2","piercing": "pearl"}
+{"name": "Doodle 260", "face": "happy note","hair": "purple cap","body": "yellow puffer","background": "gradient 1","head": "tan"}
+{"name": "Doodle 261", "face": "straw","hair": "pink long","body": "pink fleece","background": "blue","head": "pale"}
+{"name": "Doodle 262", "face": "cobain glasses","hair": "blue nerd","body": "blue and yellow jacket","background": "orange","head": "green"}
+{"name": "Doodle 263", "face": "content","hair": "holographic afro","body": "purple sweater with satchel","background": "gradient 3","head": "orange"}
+{"name": "Doodle 264", "face": "3d glasses","hair": "yellow headband","body": "grey hoodie","background": "purple","head": "pale","piercing": "hoop"}
+{"name": "Doodle 265", "face": "holographic beard","hair": "green puffballs","body": "blue and yellow jacket","background": "green","head": "orange"}
+{"name": "Doodle 266", "face": "default","hair": "blue mohawk","body": "white sweater","background": "fire","head": "blue","piercing": "pearl"}
+{"name": "Doodle 267", "face": "happy note","hair": "pink","body": "yellow puffer","background": "gradient 4","head": "tan"}
+{"name": "Doodle 268", "face": "sunglasses","hair": "blue afro","body": "pink backpack","background": "gradient 4","head": "gradient 2"}
+{"name": "Doodle 269", "face": "happy","hair": "yellow headband","body": "striped sweater","background": "space","head": "orange","piercing": "hoop"}
+{"name": "Doodle 270", "face": "in love","hair": "yellow toque","body": "grey hoodie","background": "holographic","head": "tan"}
+{"name": "Doodle 271", "face": "happy","hair": "blue nerd","body": "pink and green jacket","background": "light blue","head": "blue","piercing": "hoop"}
+{"name": "Doodle 272", "face": "rainbow puke","background": "gradient 4","head": "balloon"}
+{"name": "Doodle 273", "face": "sunglasses","hair": "green brushcut","body": "yellow turtleneck","background": "gradient 3","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 274", "face": "bandana","hair": "brown mullet","body": "white puffer","background": "yellow","head": "orange"}
+{"name": "Doodle 275", "face": "cobain glasses","hair": "green brushcut","body": "pink hoodie","background": "gradient 2","head": "pink","piercing": "pearl"}
+{"name": "Doodle 276", "face": "happy","hair": "pink toque","body": "white collar","background": "orange","head": "med"}
+{"name": "Doodle 277", "face": "green beard","hair": "white bucket cap","body": "blue and yellow jacket","background": "gradient 4","head": "pink"}
+{"name": "Doodle 278", "face": "blue check","hair": "purple alfalfa","body": "combo 1 puffer","background": "holographic","head": "yellow"}
+{"name": "Doodle 279", "face": "pink beard","hair": "green puffballs","body": "pink backpack","background": "gradient 1","head": "green"}
+{"name": "Doodle 280", "face": "happy","body": "yellow backpack","background": "yellow","head": "lit"}
+{"name": "Doodle 281", "face": "grumpy","hair": "purple long","body": "yellow turtleneck","background": "grey","head": "orange"}
+{"name": "Doodle 282", "face": "duck","background": "green","head": "pink"}
+{"name": "Doodle 283", "face": "aviators with cig","background": "space","head": "popsicle"}
+{"name": "Doodle 284", "face": "mustache","hair": "holographic brushcut","body": "white puffer","background": "gradient 1","head": "gradient 2","piercing": "pearl"}
+{"name": "Doodle 285", "face": "chill cig","hair": "blue alfalfa","body": "striped sweater","background": "blue","head": "med"}
+{"name": "Doodle 286", "face": "straw","hair": "green brushcut","body": "yellow turtleneck","background": "holographic","head": "tan","piercing": "pearl"}
+{"name": "Doodle 287", "face": "designer glasses","hair": "blue puffballs","body": "blue backpack","background": "orange","head": "blue"}
+{"name": "Doodle 288", "face": "grumpy","hair": "blue alfalfa","body": "combo 2 puffer","background": "green","head": "green"}
+{"name": "Doodle 289", "face": "default","hair": "green brushcut","body": "pink and white jacket","background": "gradient 3","head": "pink"}
+{"name": "Doodle 290", "face": "in love","hair": "beige bucket cap","body": "green hoodie","background": "sky","head": "blue"}
+{"name": "Doodle 291", "face": "in love","hair": "cat","body": "cat","background": "pink","head": "cat"}
+{"name": "Doodle 292", "face": "sunglasses","hair": "pink tidy","body": "purple sweater with satchel","background": "pink","head": "gradient 2","piercing": "hoop"}
+{"name": "Doodle 293", "face": "3d glasses","hair": "blue alfalfa","body": "combo 2 puffer","background": "gradient 2","head": "pale"}
+{"name": "Doodle 294", "face": "content","hair": "pink long","body": "pink fleece","background": "grey","head": "pink"}
+{"name": "Doodle 295", "face": "surprised","hair": "green puffballs","body": "navy sweater","background": "gradient 3","head": "blue"}
+{"name": "Doodle 296", "face": "cobain glasses","hair": "brown mullet","body": "blue turtleneck","background": "blue","head": "purple"}
+{"name": "Doodle 297", "face": "designer glasses","hair": "green mullet","body": "navy sweater","background": "fire","head": "purple"}
+{"name": "Doodle 298", "face": "bandana","hair": "blue messy","body": "green hoodie","background": "gradient 4","head": "yellow"}
+{"name": "Doodle 299", "face": "happy","hair": "blue nerd","body": "pink and white jacket","background": "green","head": "orange"}
+{"name": "Doodle 300", "face": "neutral note","hair": "green mullet","body": "white turtleneck","background": "pink","head": "tan"}
+{"name": "Doodle 301", "face": "sunglasses","hair": "purple puffballs","body": "navy sweater","background": "gradient 2","head": "yellow"}
+{"name": "Doodle 302", "face": "surprised","hair": "green mullet","body": "purple sweater with satchel","background": "pink","head": "med","piercing": "hoop"}
+{"name": "Doodle 303", "face": "grumpy","hair": "brown mullet","body": "pink and green jacket","background": "light blue","head": "yellow"}
+{"name": "Doodle 304", "face": "3d glasses","hair": "blue alfalfa","body": "yellow turtleneck","background": "grey","head": "purple"}
+{"name": "Doodle 305", "face": "grumpy","hair": "blue messy","body": "green hoodie","background": "gradient 2","head": "orange"}
+{"name": "Doodle 306", "face": "chill cig","hair": "pink toque","body": "orange collar","background": "gradient 1","head": "green"}
+{"name": "Doodle 307", "face": "aviators with mustache","hair": "blue messy","body": "yellow backpack","background": "blue","head": "purple"}
+{"name": "Doodle 308", "face": "default","hair": "pink toque","body": "green hoodie","background": "grey","head": "gradient 1"}
+{"name": "Doodle 309", "face": "happy note","hair": "yellow toque","body": "white puffer","background": "green","head": "green"}
+{"name": "Doodle 310", "face": "content","hair": "yellow headband","body": "white collar","background": "gradient 1","head": "orange","piercing": "hoop"}
+{"name": "Doodle 311", "face": "happy note","hair": "cowboy","body": "purple chain","background": "purple","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 312", "face": "content","hair": "green puffballs","body": "pink hoodie","background": "gradient 2","head": "pale"}
+{"name": "Doodle 313", "face": "sad note","hair": "helmet","body": "pink and green jacket","background": "holographic","head": "med","piercing": "pearl"}
+{"name": "Doodle 314", "face": "grumpy","hair": "purple cap","body": "combo 2 puffer","background": "yellow","head": "pink"}
+{"name": "Doodle 315", "face": "designer glasses","hair": "blue puffballs","body": "yellow puffer","background": "fire","head": "pale"}
+{"name": "Doodle 316", "face": "rainbow puke","hair": "bed head","body": "navy sweater","background": "pink","head": "med"}
+{"name": "Doodle 317", "face": "blue beard","hair": "beige bucket cap","body": "orange collar","background": "yellow","head": "yellow"}
+{"name": "Doodle 318", "face": "content","hair": "blue brushcut","body": "blue blazer","background": "gradient 2","head": "tan","piercing": "pearl"}
+{"name": "Doodle 319", "face": "sad note","hair": "pink long","body": "yellow backpack","background": "gradient 2","head": "pale"}
+{"name": "Doodle 320", "face": "happy","hair": "green mullet","body": "pink and green jacket","background": "orange","head": "tan"}
+{"name": "Doodle 321", "face": "default","hair": "purple cap","body": "pink fleece","background": "gradient 2","head": "gradient 2","piercing": "pearl"}
+{"name": "Doodle 322", "face": "aviators with mustache","hair": "blue messy","body": "pink and green jacket","background": "orange","head": "gradient 2"}
+{"name": "Doodle 323", "face": "3d glasses","hair": "brown mullet","body": "purple chain","background": "gradient 4","head": "yellow"}
+{"name": "Doodle 324", "face": "chill cig","hair": "brown mullet","body": "white sweater","background": "space","head": "yellow"}
+{"name": "Doodle 325", "face": "surprised","hair": "yellow toque","body": "blue fleece","background": "gradient 1","head": "purple"}
+{"name": "Doodle 326", "face": "designer glasses","hair": "blue puffballs","body": "blue fleece","background": "gradient 2","head": "med","piercing": "hoop"}
+{"name": "Doodle 327", "face": "in love","hair": "green brushcut","body": "blue and yellow jacket","background": "purple","head": "pink","piercing": "hoop"}
+{"name": "Doodle 328", "face": "sunglasses","hair": "pink long","body": "white collar","background": "grey","head": "gradient 1"}
+{"name": "Doodle 329", "face": "sunglasses","hair": "green mullet","body": "combo 1 puffer","background": "grey","head": "pale","piercing": "pearl"}
+{"name": "Doodle 330", "face": "sunglasses","hair": "holographic crown","body": "combo 3 puffer","background": "gradient 3","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 331", "face": "designer glasses","hair": "blue nerd","body": "orange puffer","background": "grey","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 332", "face": "straw","hair": "pink","body": "blue backpack","background": "grey","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 333", "face": "grumpy","hair": "blue messy","body": "spotted hoodie","background": "grey","head": "orange"}
+{"name": "Doodle 334", "face": "bandana","hair": "pink","body": "yellow puffer","background": "purple","head": "gradient 2"}
+{"name": "Doodle 335", "face": "grumpy","hair": "yellow backwards cap","body": "grey hoodie","background": "gradient 3","head": "gradient 1"}
+{"name": "Doodle 336", "face": "sunglasses","hair": "blue brushcut","body": "yellow puffer","background": "pink","head": "yellow"}
+{"name": "Doodle 337", "face": "designer glasses","hair": "blue afro","body": "yellow turtleneck","background": "gradient 3","head": "tan"}
+{"name": "Doodle 338", "face": "neutral note","hair": "purple brushcut","body": "orange collar","background": "yellow","head": "gradient 1"}
+{"name": "Doodle 339", "face": "chill cig","hair": "harley","body": "pink hoodie","background": "iridescent","head": "yellow"}
+{"name": "Doodle 340", "face": "cobain glasses","hair": "cowboy","body": "light blue puffer","background": "green","head": "gradient 1","piercing": "hoop"}
+{"name": "Doodle 341", "face": "rainbow puke","hair": "green puffballs","body": "pink and white jacket","background": "iridescent","head": "orange","piercing": "hoop"}
+{"name": "Doodle 342", "face": "skeleton","hair": "green bowlcut","body": "pink puffer","background": "yellow","head": "pale"}
+{"name": "Doodle 343", "face": "designer glasses","hair": "pink headband","body": "pink backpack","background": "yellow","head": "pale"}
+{"name": "Doodle 344", "face": "3d glasses","hair": "holographic poopie","body": "pink hoodie","background": "grey","head": "purple"}
+{"name": "Doodle 345", "face": "mustache","hair": "blue messy","body": "blue turtleneck","background": "orange","head": "pale","piercing": "hoop"}
+{"name": "Doodle 346", "face": "sunglasses","hair": "blue brushcut","body": "green blazer","background": "gradient 2","head": "orange"}
+{"name": "Doodle 347", "face": "sad note","hair": "purple brushcut","body": "blue backpack","background": "space","head": "med"}
+{"name": "Doodle 348", "face": "rainbow puke","hair": "shaved","body": "pink puffer","background": "green","head": "pink"}
+{"name": "Doodle 349", "face": "designer glasses","hair": "purple brushcut","body": "blue turtleneck","background": "light blue","head": "green"}
+{"name": "Doodle 350", "face": "chill cig","hair": "beige bucket cap","body": "white collar","background": "orange","head": "pale"}
+{"name": "Doodle 351", "face": "pink beard","hair": "yellow toque","body": "light blue puffer","background": "yellow","head": "green"}
+{"name": "Doodle 352", "face": "happy","hair": "blue mohawk","body": "white sweater","background": "iridescent","head": "yellow","piercing": "airpod"}
+{"name": "Doodle 353", "face": "content","hair": "pink","body": "blue backpack","background": "orange","head": "orange","piercing": "pearl"}
+{"name": "Doodle 354", "face": "3d glasses","hair": "blue afro","body": "blue fleece","background": "yellow","head": "med"}
+{"name": "Doodle 355", "face": "default","hair": "brown brushcut","body": "navy sweater","background": "purple","head": "tan"}
+{"name": "Doodle 356", "face": "grumpy","hair": "green puffballs","body": "blue turtleneck","background": "grey","head": "gradient 1"}
+{"name": "Doodle 357", "face": "chill cig","hair": "holographic crown","body": "white turtleneck","background": "yellow","head": "blue"}
+{"name": "Doodle 358", "face": "mustache","hair": "shaved","body": "blue fleece","background": "light blue","head": "gradient 2"}
+{"name": "Doodle 359", "face": "skeleton","hair": "blue brushcut","body": "pink hoodie","background": "orange","head": "pale"}
+{"name": "Doodle 360", "face": "surprised","hair": "brown brushcut","body": "blue fleece","background": "gradient 3","head": "green"}
+{"name": "Doodle 361", "face": "aviators with cig","hair": "green puffballs","body": "purple chain","background": "gradient 1","head": "purple"}
+{"name": "Doodle 362", "face": "content","hair": "brown brushcut","body": "orange collar","background": "gradient 3","head": "gradient 1"}
+{"name": "Doodle 363", "face": "dino","background": "gradient 3","head": "pink"}
+{"name": "Doodle 364", "face": "content","hair": "cowboy","body": "pink hoodie","background": "gradient 3","head": "gradient 1"}
+{"name": "Doodle 365", "face": "bandana","hair": "harley","body": "striped sweater","background": "green","head": "med"}
+{"name": "Doodle 366", "face": "mustache","hair": "purple alfalfa","body": "orange collar","background": "gradient 4","head": "pink"}
+{"name": "Doodle 367", "face": "in love","hair": "pink bucket cap","body": "yellow turtleneck","background": "orange","head": "gradient 1"}
+{"name": "Doodle 368", "face": "aviators with cig","hair": "blue brushcut","body": "navy sweater","background": "gradient 4","head": "purple"}
+{"name": "Doodle 369", "face": "in love","hair": "yellow bowlcut","body": "white sweater","background": "purple","head": "pink"}
+{"name": "Doodle 370", "face": "default","hair": "green mullet","body": "pink backpack","background": "pink","head": "yellow"}
+{"name": "Doodle 371", "face": "sunglasses","hair": "blue afro","body": "combo 1 puffer","background": "purple","head": "gradient 1"}
+{"name": "Doodle 372", "face": "in love","hair": "pink bucket cap","body": "pink and white jacket","background": "gradient 1","head": "green","piercing": "hoop"}
+{"name": "Doodle 373", "face": "aviators with cig","hair": "pink long","body": "yellow backpack","background": "pink","head": "pink"}
+{"name": "Doodle 374", "face": "grumpy","hair": "pink tidy","body": "pink and white jacket","background": "holographic","head": "med"}
+{"name": "Doodle 375", "face": "skeleton","hair": "blue puffballs","body": "rainbow striped sweater","background": "grey","head": "blue"}
+{"name": "Doodle 376", "face": "rainbow puke","hair": "pink tidy","body": "pink hoodie","background": "yellow","head": "orange","piercing": "hoop"}
+{"name": "Doodle 377", "face": "content","hair": "purple brushcut","body": "combo 2 puffer","background": "gradient 4","head": "purple"}
+{"name": "Doodle 378", "face": "straw","hair": "brown brushcut","body": "leopard hoodie","background": "grey","head": "med"}
+{"name": "Doodle 379", "face": "chill cig","hair": "green bowlcut","body": "blue fleece","background": "orange","head": "gradient 2","piercing": "hoop"}
+{"name": "Doodle 380", "face": "default","hair": "holographic crown","body": "purple sweater with satchel","background": "gradient 4","head": "orange","piercing": "airpod"}
+{"name": "Doodle 381", "face": "designer glasses","hair": "purple alfalfa","body": "rainbow striped sweater","background": "gradient 4","head": "blue"}
+{"name": "Doodle 382", "face": "in love","hair": "purple brushcut","body": "combo 1 puffer","background": "blue","head": "yellow"}
+{"name": "Doodle 383", "face": "default","hair": "purple long","body": "pink puffer","background": "gradient 4","head": "blue","piercing": "airpod"}
+{"name": "Doodle 384", "face": "designer glasses","hair": "cowboy","body": "green blazer","background": "holographic","head": "yellow"}
+{"name": "Doodle 385", "face": "aviators with cig","hair": "brown brushcut","body": "orange collar","background": "gradient 1","head": "green"}
+{"name": "Doodle 386", "face": "content","hair": "brown mullet","body": "pink fleece","background": "orange","head": "purple","piercing": "pearl"}
+{"name": "Doodle 387", "face": "sunglasses","hair": "shaved","body": "pink sweater with satchel","background": "gradient 4","head": "tan"}
+{"name": "Doodle 388", "face": "content","hair": "pink long","body": "orange collar","background": "light blue","head": "yellow"}
+{"name": "Doodle 389", "face": "mustache","hair": "brown mullet","body": "yellow puffer","background": "gradient 3","head": "pale"}
+{"name": "Doodle 390", "face": "cobain glasses","hair": "green brushcut","body": "white puffer","background": "iridescent","head": "green","piercing": "airpod"}
+{"name": "Doodle 391", "face": "sunglasses","hair": "blue brushcut","body": "yellow backpack","background": "purple","head": "blue"}
+{"name": "Doodle 392", "face": "happy","hair": "pink bucket cap","body": "white turtleneck","background": "holographic","head": "pink"}
+{"name": "Doodle 393", "face": "content","hair": "pink tidy","body": "spotted sweater","background": "yellow","head": "gradient 2"}
+{"name": "Doodle 394", "face": "in love","hair": "pink bucket cap","body": "blue backpack","background": "space","head": "pink","piercing": "hoop"}
+{"name": "Doodle 395", "face": "designer glasses","hair": "yellow headband","body": "pink and green jacket","background": "green","head": "med"}
+{"name": "Doodle 396", "face": "blue beard","hair": "purple alfalfa","body": "pink backpack","background": "gradient 2","head": "orange","piercing": "hoop"}
+{"name": "Doodle 397", "face": "mustache","hair": "holographic brushcut","body": "white collar","background": "gradient 1","head": "pink"}
+{"name": "Doodle 398", "face": "chill cig","hair": "yellow headband","body": "orange collar","background": "yellow","head": "purple"}
+{"name": "Doodle 399", "face": "straw","hair": "purple long","body": "pink fleece","background": "holographic","head": "gradient 1"}
+{"name": "Doodle 400", "face": "happy note","body": "pink fleece","background": "light blue","head": "coffee"}
+{"name": "Doodle 401", "face": "surprised","hair": "blue puffballs","body": "white puffer","background": "grey","head": "pale"}
+{"name": "Doodle 402", "face": "happy","hair": "yellow headband","body": "white collar","background": "gradient 3","head": "yellow"}
+{"name": "Doodle 403", "face": "mustache","hair": "blue toque","body": "pink backpack","background": "blue","head": "pink"}
+{"name": "Doodle 404", "face": "aviators with cig","hair": "purple brushcut","body": "purple sweater with satchel","background": "pink","head": "pink"}
+{"name": "Doodle 405", "face": "happy","hair": "viking","body": "blue fleece","background": "gradient 3","head": "tan"}
+{"name": "Doodle 406", "face": "surprised","hair": "purple alfalfa","body": "combo 1 puffer","background": "yellow","head": "pale","piercing": "hoop"}
+{"name": "Doodle 407", "face": "happy note","hair": "blue brushcut","body": "pink fleece","background": "holographic","head": "pale","piercing": "hoop"}
+{"name": "Doodle 408", "face": "happy","hair": "pink long","body": "pink and green jacket","background": "gradient 2","head": "orange","piercing": "hoop"}
+{"name": "Doodle 409", "face": "happy","hair": "blue puffballs","body": "orange puffer","background": "grey","head": "green","piercing": "hoop"}
+{"name": "Doodle 410", "face": "green beard","hair": "purple puffballs","body": "pink puffer","background": "space","head": "orange","piercing": "hoop"}
+{"name": "Doodle 411", "face": "cobain glasses","hair": "pink","body": "blue blazer","background": "yellow","head": "purple","piercing": "hoop"}
+{"name": "Doodle 412", "face": "cobain glasses","hair": "blue nerd","body": "white sweater","background": "holographic","head": "purple"}
+{"name": "Doodle 413", "face": "chill cig","hair": "shaved","body": "combo 3 puffer","background": "purple","head": "tan"}
+{"name": "Doodle 414", "face": "happy","hair": "brown mullet","body": "orange collar","background": "iridescent","head": "orange"}
+{"name": "Doodle 415", "face": "content","hair": "green mullet","body": "yellow backpack","background": "fire","head": "pink"}
+{"name": "Doodle 416", "face": "cobain glasses","hair": "halo","body": "striped sweater","background": "orange","head": "gradient 1"}
+{"name": "Doodle 417", "face": "in love","hair": "green brushcut","body": "combo 1 puffer","background": "gradient 1","head": "green"}
+{"name": "Doodle 418", "face": "cobain glasses","hair": "blue mohawk","body": "pink puffer","background": "orange","head": "green"}
+{"name": "Doodle 419", "face": "in love","hair": "green puffballs","body": "pink puffer","background": "blue","head": "blue"}
+{"name": "Doodle 420", "face": "grumpy","body": "pink and white jacket","background": "light blue","head": "lit"}
+{"name": "Doodle 421", "face": "straw","hair": "pink tidy","body": "purple sweater with satchel","background": "gradient 3","head": "pink"}
+{"name": "Doodle 422", "face": "aviators with cig","hair": "purple long","body": "yellow backpack","background": "gradient 3","head": "gradient 1"}
+{"name": "Doodle 423", "face": "happy note","hair": "blue brushcut","body": "combo 2 puffer","background": "gradient 2","head": "gradient 1"}
+{"name": "Doodle 424", "face": "grumpy","hair": "yellow bowlcut","body": "white collar","background": "orange","head": "pink"}
+{"name": "Doodle 425", "face": "sunglasses","hair": "purple long","body": "blue turtleneck","background": "grey","head": "gradient 2","piercing": "pearl"}
+{"name": "Doodle 426", "face": "content","hair": "blue nerd","body": "combo 2 puffer","background": "light blue","head": "med","piercing": "airpod"}
+{"name": "Doodle 427", "face": "designer glasses","hair": "halo","body": "navy sweater","background": "green","head": "purple"}
+{"name": "Doodle 428", "face": "content","hair": "blue afro","body": "combo 3 puffer","background": "gradient 2","head": "gradient 2"}
+{"name": "Doodle 429", "face": "surprised","hair": "green mullet","body": "white collar","background": "gradient 3","head": "tan"}
+{"name": "Doodle 430", "face": "content","hair": "blue alfalfa","body": "blue and yellow jacket","background": "yellow","head": "gradient 1","piercing": "pearl"}
+{"name": "Doodle 431", "face": "sunglasses","hair": "green puffballs","body": "white collar","background": "holographic","head": "pale","piercing": "pearl"}
+{"name": "Doodle 432", "face": "content","hair": "yellow backwards cap","body": "light blue puffer","background": "gradient 1","head": "med"}
+{"name": "Doodle 433", "face": "happy","body": "combo 1 puffer","background": "sky","head": "lit"}
+{"name": "Doodle 434", "face": "chill cig","hair": "poopie","body": "combo 3 puffer","background": "grey","head": "pale","piercing": "hoop"}
+{"name": "Doodle 435", "face": "chill cig","hair": "shaved","body": "pink hoodie","background": "purple","head": "tan"}
+{"name": "Doodle 436", "face": "chill cig","hair": "yellow bowlcut","body": "white puffer","background": "orange","head": "orange"}
+{"name": "Doodle 437", "face": "aviators with cig","hair": "brown mullet","body": "light blue puffer","background": "purple","head": "tan"}
+{"name": "Doodle 438", "face": "grumpy","hair": "viking","body": "pink fleece","background": "gradient 2","head": "orange"}
+{"name": "Doodle 439", "face": "sunglasses","hair": "green bowlcut","body": "pink and white jacket","background": "grey","head": "green"}
+{"name": "Doodle 440", "face": "designer glasses","hair": "brown brushcut","body": "pink sweater with satchel","background": "pink","head": "green","piercing": "airpod"}
+{"name": "Doodle 441", "face": "grumpy","hair": "blue messy","body": "pink sweater with satchel","background": "gradient 3","head": "yellow"}
+{"name": "Doodle 442", "face": "happy","hair": "pink headband","body": "grey hoodie","background": "iridescent","head": "pink","piercing": "pearl"}
+{"name": "Doodle 443", "face": "happy note","hair": "brown mullet","body": "blue backpack","background": "yellow","head": "med"}
+{"name": "Doodle 444", "face": "rainbow puke","hair": "green puffballs","body": "pink fleece","background": "purple","head": "tan"}
+{"name": "Doodle 445", "face": "cobain glasses","hair": "green bowlcut","body": "combo 2 puffer","background": "gradient 2","head": "green"}
+{"name": "Doodle 446", "face": "default","hair": "green brushcut","body": "pink backpack","background": "green","head": "yellow","piercing": "airpod"}
+{"name": "Doodle 447", "face": "happy","hair": "brown brushcut","body": "light blue puffer","background": "pink","head": "purple"}
+{"name": "Doodle 448", "face": "cat","hair": "cat","body": "cat","background": "dark purple","head": "calico cat"}
+{"name": "Doodle 449", "face": "in love","hair": "white bucket cap","body": "pink fleece","background": "orange","head": "med","piercing": "airpod"}
+{"name": "Doodle 450", "face": "content","hair": "holographic mohawk","body": "yellow turtleneck","background": "light blue","head": "green"}
+{"name": "Doodle 451", "face": "happy","hair": "blue mohawk","body": "pink backpack","background": "purple","head": "pale"}
+{"name": "Doodle 452", "face": "pink beard","hair": "green puffballs","body": "green hoodie","background": "purple","head": "gradient 2"}
+{"name": "Doodle 453", "face": "grumpy","hair": "holographic bob","body": "pink and white jacket","background": "holographic","head": "tan"}
+{"name": "Doodle 454", "face": "cobain glasses","hair": "blue puffballs","body": "pink puffer","background": "orange","head": "med"}
+{"name": "Doodle 455", "face": "neutral note","hair": "blue brushcut","body": "pink hoodie","background": "gradient 2","head": "med"}
+{"name": "Doodle 456", "face": "neutral note","hair": "pink headband","body": "blue backpack","background": "purple","head": "tan"}
+{"name": "Doodle 457", "face": "sunglasses","hair": "brown mullet","body": "combo 1 puffer","background": "gradient 4","head": "pale"}
+{"name": "Doodle 458", "face": "default","hair": "pink long","body": "combo 1 puffer","background": "blue","head": "pale"}
+{"name": "Doodle 459", "face": "content","hair": "blue afro","body": "pink and white jacket","background": "light blue","head": "purple"}
+{"name": "Doodle 460", "face": "sad note","hair": "purple puffballs","body": "pink backpack","background": "orange","head": "pale"}
+{"name": "Doodle 461", "face": "in love","hair": "cowboy","body": "light blue puffer","background": "gradient 4","head": "tan"}
+{"name": "Doodle 462", "face": "grumpy","hair": "shaved","body": "green hoodie","background": "orange","head": "gradient 2"}
+{"name": "Doodle 463", "face": "default","hair": "purple cap","body": "pink and white jacket","background": "yellow","head": "orange"}
+{"name": "Doodle 464", "face": "grumpy","hair": "pink long","body": "pink puffer","background": "holographic","head": "purple"}
+{"name": "Doodle 465", "face": "happy note","hair": "blue alfalfa","body": "white turtleneck","background": "blue","head": "green"}
+{"name": "Doodle 466", "face": "sunglasses","hair": "purple brushcut","body": "yellow turtleneck","background": "pink","head": "pink"}
+{"name": "Doodle 467", "face": "aviators with mustache","hair": "blue puffballs","body": "white puffer","background": "orange","head": "green","piercing": "hoop"}
+{"name": "Doodle 468", "face": "sunglasses","hair": "purple alfalfa","body": "pink puffer","background": "green","head": "tan"}
+{"name": "Doodle 469", "face": "in love","hair": "shaved","body": "light blue puffer","background": "green","head": "yellow"}
+{"name": "Doodle 470", "face": "skeleton","hair": "yellow bowlcut","body": "pink backpack","background": "green","head": "tan"}
+{"name": "Doodle 471", "face": "designer glasses","hair": "pink headband","body": "yellow backpack","background": "yellow","head": "tan","piercing": "pearl"}
+{"name": "Doodle 472", "face": "bandana","hair": "purple long","body": "pink and white jacket","background": "holographic","head": "purple"}
+{"name": "Doodle 473", "face": "rainbow puke","hair": "pink toque","body": "yellow turtleneck","background": "gradient 3","head": "purple"}
+{"name": "Doodle 474", "face": "sunglasses","hair": "blue alfalfa","body": "pink backpack","background": "fire","head": "pale","piercing": "pearl"}
+{"name": "Doodle 475", "face": "chill cig","hair": "blue brushcut","body": "pink and green jacket","background": "sky","head": "purple"}
+{"name": "Doodle 476", "face": "default","hair": "white bucket cap","body": "blue fleece","background": "grey","head": "green"}
+{"name": "Doodle 477", "face": "surprised","hair": "yellow headband","body": "green hoodie","background": "iridescent","head": "tan"}
+{"name": "Doodle 478", "face": "mustache","hair": "green bowlcut","body": "blue backpack","background": "gradient 1","head": "pale","piercing": "pearl"}
+{"name": "Doodle 479", "face": "3d glasses","hair": "purple puffballs","body": "white sweater","background": "orange","head": "yellow"}
+{"name": "Doodle 480", "face": "straw","hair": "white bucket cap","body": "light blue puffer","background": "blue","head": "green","piercing": "pearl"}
+{"name": "Doodle 481", "face": "grumpy","body": "pink puffer","background": "light blue","head": "coffee"}
+{"name": "Doodle 482", "face": "chill cig","hair": "pink headband","body": "blue fleece","background": "light blue","head": "purple"}
+{"name": "Doodle 483", "face": "mad note","hair": "purple long","body": "pink puffer","background": "gradient 1","head": "med"}
+{"name": "Doodle 484", "face": "default","hair": "brown mullet","body": "combo 1 puffer","background": "gradient 3","head": "purple","piercing": "hoop"}
+{"name": "Doodle 485", "face": "chill cig","hair": "blue nerd","body": "yellow turtleneck","background": "green","head": "orange","piercing": "airpod"}
+{"name": "Doodle 486", "face": "mustache","hair": "blue brushcut","body": "light blue puffer","background": "gradient 4","head": "purple"}
+{"name": "Doodle 487", "face": "bandana","hair": "pink long","body": "pink hoodie","background": "iridescent","head": "tan","piercing": "hoop"}
+{"name": "Doodle 488", "face": "grumpy","hair": "pink headband","body": "pink backpack","background": "sky","head": "purple"}
+{"name": "Doodle 489", "face": "sunglasses","hair": "holographic poopie","body": "pink fleece","background": "green","head": "green"}
+{"name": "Doodle 490", "face": "straw","hair": "pink headband","body": "orange collar","background": "light blue","head": "yellow"}
+{"name": "Doodle 491", "face": "bandana","hair": "blue alfalfa","body": "yellow turtleneck","background": "gradient 4","head": "pink"}
+{"name": "Doodle 492", "face": "sunglasses","hair": "yellow headband","body": "white collar","background": "pink","head": "gradient 2"}
+{"name": "Doodle 493", "face": "designer glasses","hair": "pink headband","body": "white sweater","background": "pink","head": "orange"}
+{"name": "Doodle 494", "face": "green beard","hair": "purple long","body": "combo 3 puffer","background": "yellow","head": "tan"}
+{"name": "Doodle 495", "face": "sad note","hair": "halo","body": "white sweater","background": "yellow","head": "blue"}
+{"name": "Doodle 496", "face": "chill cig","hair": "green mullet","body": "rainbow striped sweater","background": "orange","head": "pale"}
+{"name": "Doodle 497", "face": "default","hair": "shaved","body": "yellow puffer","background": "gradient 3","head": "orange"}
+{"name": "Doodle 498", "face": "grumpy","hair": "blue puffballs","body": "combo 3 puffer","background": "gradient 1","head": "med"}
+{"name": "Doodle 499", "face": "in love","hair": "pink","body": "pink puffer","background": "blue","head": "gradient 1","piercing": "pearl"}
+{"name": "Doodle 500", "face": "neutral note","hair": "purple long","body": "yellow puffer","background": "grey","head": "pale","piercing": "hoop"}
+{"name": "Doodle 501", "face": "aviators with cig","hair": "purple puffballs","body": "white turtleneck","background": "green","head": "purple"}
+{"name": "Doodle 502", "face": "aviators with mustache","hair": "blue messy","body": "pink and white jacket","background": "light blue","head": "pink","piercing": "pearl"}
+{"name": "Doodle 503", "face": "skeleton","hair": "green puffballs","body": "blue blazer","background": "gradient 1","head": "gradient 1"}
+{"name": "Doodle 504", "face": "happy","hair": "blue toque","body": "yellow backpack","background": "light blue","head": "green","piercing": "hoop"}
+{"name": "Doodle 505", "face": "grumpy","hair": "purple cap","body": "pink fleece","background": "purple","head": "gradient 2"}
+{"name": "Doodle 506", "face": "in love","hair": "green bowlcut","body": "grey hoodie","background": "orange","head": "orange"}
+{"name": "Doodle 507", "face": "straw","hair": "blue toque","body": "blue backpack","background": "gradient 4","head": "blue","piercing": "airpod"}
+{"name": "Doodle 508", "face": "grumpy","hair": "yellow bowlcut","body": "orange collar","background": "pink","head": "med"}
+{"name": "Doodle 509", "face": "sunglasses","hair": "green mullet","body": "white collar","background": "grey","head": "med"}
+{"name": "Doodle 510", "face": "sad note","hair": "purple puffballs","body": "green hoodie","background": "blue","head": "tan"}
+{"name": "Doodle 511", "face": "blue beard","hair": "beige bucket cap","body": "leopard hoodie","background": "grey","head": "blue"}
+{"name": "Doodle 512", "face": "content","hair": "blue toque","body": "pink hoodie","background": "pink","head": "yellow","piercing": "airpod"}
+{"name": "Doodle 513", "face": "cobain glasses","hair": "holographic afro","body": "light blue puffer","background": "purple","head": "pale","piercing": "pearl"}
+{"name": "Doodle 514", "face": "bandana","hair": "halo","body": "orange collar","background": "green","head": "purple"}
+{"name": "Doodle 515", "face": "designer glasses","hair": "purple cap","body": "white collar","background": "grey","head": "blue","piercing": "hoop"}
+{"name": "Doodle 516", "face": "sunglasses","hair": "green puffballs","body": "white sweater","background": "fire","head": "med","piercing": "hoop"}
+{"name": "Doodle 517", "face": "designer glasses","hair": "blue mohawk","body": "green hoodie","background": "pink","head": "pink","piercing": "hoop"}
+{"name": "Doodle 518", "face": "happy","hair": "blue alfalfa","body": "yellow turtleneck","background": "space","head": "pink"}
+{"name": "Doodle 519", "face": "mustache","hair": "yellow toque","body": "white puffer","background": "gradient 2","head": "yellow"}
+{"name": "Doodle 520", "face": "cobain glasses","hair": "green brushcut","body": "blue and yellow jacket","background": "pink","head": "pink"}
+{"name": "Doodle 521", "face": "content","hair": "purple brushcut","body": "white turtleneck","background": "fire","head": "yellow"}
+{"name": "Doodle 522", "face": "sunglasses","hair": "pink","body": "pink sweater with satchel","background": "orange","head": "pink"}
+{"name": "Doodle 523", "face": "skeleton","hair": "holographic afro","body": "white collar","background": "yellow","head": "pale","piercing": "airpod"}
+{"name": "Doodle 524", "face": "surprised","hair": "pink bucket cap","body": "pink hoodie","background": "pink","head": "yellow"}
+{"name": "Doodle 525", "face": "default","hair": "purple alfalfa","body": "grey hoodie","background": "purple","head": "gradient 2"}
+{"name": "Doodle 526", "face": "chill cig","hair": "wizard","body": "combo 3 puffer","background": "yellow","head": "blue","piercing": "hoop"}
+{"name": "Doodle 527", "face": "surprised","hair": "purple puffballs","body": "navy sweater","background": "light blue","head": "med"}
+{"name": "Doodle 528", "face": "aviators with mustache","hair": "pink headband","body": "pink fleece","background": "yellow","head": "blue","piercing": "hoop"}
+{"name": "Doodle 529", "face": "straw","hair": "blue mohawk","body": "grey hoodie","background": "grey","head": "blue"}
+{"name": "Doodle 530", "face": "straw","hair": "green mullet","body": "yellow backpack","background": "gradient 2","head": "pale"}
+{"name": "Doodle 531", "face": "default","hair": "yellow headband","body": "yellow turtleneck","background": "holographic","head": "purple"}
+{"name": "Doodle 532", "face": "neutral note","hair": "green brushcut","body": "yellow turtleneck","background": "yellow","head": "med"}
+{"name": "Doodle 533", "face": "neutral note","hair": "yellow bowlcut","body": "pink sweater with satchel","background": "blue","head": "pink"}
+{"name": "Doodle 534", "face": "3d glasses","hair": "brown mullet","body": "pink fleece","background": "grey","head": "gradient 2"}
+{"name": "Doodle 535", "face": "default","hair": "purple alfalfa","body": "blue fleece","background": "gradient 4","head": "orange","piercing": "hoop"}
+{"name": "Doodle 536", "face": "bandana","hair": "blue mohawk","body": "pink hoodie","background": "orange","head": "green"}
+{"name": "Doodle 537", "face": "bandana","hair": "pink","body": "yellow puffer","background": "gradient 2","head": "pink"}
+{"name": "Doodle 538", "face": "surprised","hair": "purple puffballs","body": "light blue puffer","background": "grey","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 539", "face": "content","hair": "yellow toque","body": "grey hoodie","background": "pink","head": "med","piercing": "pearl"}
+{"name": "Doodle 540", "face": "designer glasses","hair": "green brushcut","body": "combo 3 puffer","background": "gradient 4","head": "green"}
+{"name": "Doodle 541", "face": "default","hair": "viking","body": "pink hoodie","background": "gradient 3","head": "gradient 1","piercing": "hoop"}
+{"name": "Doodle 542", "face": "grumpy","hair": "pink","body": "light blue puffer","background": "iridescent","head": "green"}
+{"name": "Doodle 543", "face": "surprised","hair": "blue nerd","body": "pink fleece","background": "pink","head": "yellow"}
+{"name": "Doodle 544", "face": "designer glasses","hair": "blue mohawk","body": "combo 2 puffer","background": "yellow","head": "purple","piercing": "hoop"}
+{"name": "Doodle 545", "face": "3d glasses","hair": "purple brushcut","body": "yellow backpack","background": "fire","head": "yellow"}
+{"name": "Doodle 546", "face": "3d glasses","hair": "yellow bowlcut","body": "yellow turtleneck","background": "green","head": "tan"}
+{"name": "Doodle 547", "face": "pink beard","hair": "yellow bowlcut","body": "grey hoodie","background": "gradient 1","head": "yellow"}
+{"name": "Doodle 548", "face": "cobain glasses","hair": "holographic afro","body": "navy sweater","background": "yellow","head": "blue"}
+{"name": "Doodle 549", "face": "aviators with cig","hair": "pink headband","body": "pink and green jacket","background": "gradient 4","head": "blue","piercing": "hoop"}
+{"name": "Doodle 550", "face": "cobain glasses","hair": "pink tidy","body": "pink puffer","background": "space","head": "med"}
+{"name": "Doodle 551", "face": "green beard","hair": "green puffballs","body": "white sweater","background": "gradient 3","head": "blue"}
+{"name": "Doodle 552", "face": "in love","hair": "blue mohawk","body": "pink puffer","background": "blue","head": "blue"}
+{"name": "Doodle 553", "face": "cobain glasses","hair": "shaved","body": "pink fleece","background": "gradient 2","head": "purple"}
+{"name": "Doodle 554", "face": "cobain glasses","hair": "holographic afro","body": "blue and yellow jacket","background": "yellow","head": "purple"}
+{"name": "Doodle 555", "face": "in love","hair": "blue mohawk","body": "green blazer","background": "light blue","head": "pale"}
+{"name": "Doodle 556", "face": "content","hair": "holographic bob","body": "yellow backpack","background": "orange","head": "pink"}
+{"name": "Doodle 557", "face": "in love","hair": "pink toque","body": "combo 3 puffer","background": "light blue","head": "pale"}
+{"name": "Doodle 558", "face": "happy","hair": "green brushcut","body": "striped sweater","background": "gradient 4","head": "pale"}
+{"name": "Doodle 559", "face": "skelly cig","hair": "private skelly","body": "skelly","background": "dark grey","head": "skelly"}
+{"name": "Doodle 560", "face": "3d glasses","hair": "purple long","body": "blue fleece","background": "gradient 1","head": "green","piercing": "pearl"}
+{"name": "Doodle 561", "face": "grumpy","hair": "crown with holographic long","body": "white collar","background": "pink","head": "orange"}
+{"name": "Doodle 562", "face": "cobain glasses","hair": "purple puffballs","body": "navy sweater","background": "orange","head": "pale"}
+{"name": "Doodle 563", "face": "designer glasses","hair": "pink headband","body": "pink backpack","background": "gradient 3","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 564", "face": "content","hair": "purple cap","body": "combo 1 puffer","background": "purple","head": "tan"}
+{"name": "Doodle 565", "face": "chill cig","hair": "viking","body": "striped sweater","background": "pink","head": "purple","piercing": "hoop"}
+{"name": "Doodle 566", "face": "blue beard","hair": "pink bucket cap","body": "grey hoodie","background": "gradient 3","head": "med"}
+{"name": "Doodle 567", "face": "skeleton","hair": "blue puffballs","body": "green hoodie","background": "purple","head": "green"}
+{"name": "Doodle 568", "face": "aviators with mustache","hair": "purple brushcut","body": "white collar","background": "space","head": "green","piercing": "hoop"}
+{"name": "Doodle 569", "face": "grumpy","hair": "pink long","body": "spotted sweater","background": "green","head": "blue"}
+{"name": "Doodle 570", "face": "3d glasses","hair": "yellow headband","body": "pink fleece","background": "gradient 4","head": "pink"}
+{"name": "Doodle 571", "face": "designer glasses","hair": "purple cap","body": "white sweater","background": "holographic","head": "pink"}
+{"name": "Doodle 572", "face": "bandana","hair": "blue nerd","body": "striped sweater","background": "gradient 1","head": "blue"}
+{"name": "Doodle 573", "face": "cobain glasses","hair": "purple long","body": "blue turtleneck","background": "gradient 3","head": "med"}
+{"name": "Doodle 574", "face": "designer glasses","hair": "purple brushcut","body": "orange puffer","background": "light blue","head": "blue"}
+{"name": "Doodle 575", "face": "in love","hair": "purple cap","body": "yellow turtleneck","background": "pink","head": "gradient 2"}
+{"name": "Doodle 576", "face": "neutral note","hair": "green puffballs","body": "blue fleece","background": "holographic","head": "pale"}
+{"name": "Doodle 577", "face": "rainbow puke","hair": "green bowlcut","body": "striped sweater","background": "yellow","head": "gradient 1","piercing": "hoop"}
+{"name": "Doodle 578", "face": "straw","hair": "purple long","body": "purple sweater with satchel","background": "fire","head": "pink"}
+{"name": "Doodle 579", "face": "surprised","hair": "yellow bowlcut","body": "pink and green jacket","background": "orange","head": "gradient 2","piercing": "hoop"}
+{"name": "Doodle 580", "face": "default","hair": "blue puffballs","body": "blue and yellow jacket","background": "yellow","head": "gradient 1"}
+{"name": "Doodle 581", "face": "default","hair": "pink","body": "blue turtleneck","background": "gradient 4","head": "tan"}
+{"name": "Doodle 582", "face": "content","hair": "blue brushcut","body": "pink and green jacket","background": "yellow","head": "blue","piercing": "pearl"}
+{"name": "Doodle 583", "face": "happy","hair": "wizard","body": "pink sweater with satchel","background": "gradient 2","head": "med","piercing": "pearl"}
+{"name": "Doodle 584", "face": "bandana","hair": "pink long","body": "blue turtleneck","background": "blue","head": "pink"}
+{"name": "Doodle 585", "face": "cobain glasses","hair": "blue brushcut","body": "blue turtleneck","background": "grey","head": "green","piercing": "hoop"}
+{"name": "Doodle 586", "face": "rainbow puke","hair": "sailor","body": "yellow backpack","background": "fire","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 587", "face": "holographic beard","hair": "blue alfalfa","body": "blue and yellow jacket","background": "fire","head": "gradient 1","piercing": "pearl"}
+{"name": "Doodle 588", "face": "happy note","hair": "green mullet","body": "combo 3 puffer","background": "pink","head": "purple"}
+{"name": "Doodle 589", "face": "mustache","hair": "viking","body": "pink sweater with satchel","background": "pink","head": "gradient 2"}
+{"name": "Doodle 590", "face": "skeleton","hair": "green bowlcut","body": "blue and yellow jacket","background": "gradient 4","head": "tan"}
+{"name": "Doodle 591", "face": "sunglasses","hair": "purple alfalfa","body": "yellow backpack","background": "gradient 4","head": "gradient 2"}
+{"name": "Doodle 592", "face": "straw","hair": "green brushcut","body": "white turtleneck","background": "purple","head": "med"}
+{"name": "Doodle 593", "face": "skeleton","hair": "purple puffballs","body": "striped sweater","background": "space","head": "gradient 2"}
+{"name": "Doodle 594", "face": "pink beard","hair": "green puffballs","body": "pink hoodie","background": "green","head": "green"}
+{"name": "Doodle 595", "face": "default","hair": "pink","body": "white turtleneck","background": "green","head": "med"}
+{"name": "Doodle 596", "face": "bandana","hair": "pink tidy","body": "light blue puffer","background": "gradient 2","head": "green"}
+{"name": "Doodle 597", "face": "sunglasses","hair": "purple brushcut","body": "pink puffer","background": "gradient 4","head": "gradient 2"}
+{"name": "Doodle 598", "face": "surprised","hair": "green mullet","body": "blue backpack","background": "purple","head": "pale"}
+{"name": "Doodle 599", "face": "chill cig","hair": "purple alfalfa","body": "pink hoodie","background": "yellow","head": "blue","piercing": "hoop"}
+{"name": "Doodle 600", "face": "holographic beard","hair": "holographic afro","body": "navy sweater","background": "blue","head": "med"}
+{"name": "Doodle 601", "face": "mad note","hair": "brown brushcut","body": "pink sweater with satchel","background": "gradient 1","head": "pale","piercing": "airpod"}
+{"name": "Doodle 602", "face": "mustache","hair": "white bucket cap","body": "blue turtleneck","background": "gradient 4","head": "blue"}
+{"name": "Doodle 603", "face": "happy","hair": "purple puffballs","body": "light blue puffer","background": "iridescent","head": "blue"}
+{"name": "Doodle 604", "face": "grumpy","hair": "yellow headband","body": "yellow backpack","background": "gradient 3","head": "tan"}
+{"name": "Doodle 605", "face": "sunglasses","hair": "blue puffballs","body": "white puffer","background": "gradient 4","head": "pale","piercing": "airpod"}
+{"name": "Doodle 606", "face": "cobain glasses","hair": "yellow bowlcut","body": "pink fleece","background": "gradient 1","head": "tan"}
+{"name": "Doodle 607", "face": "designer glasses","hair": "blue alfalfa","body": "orange puffer","background": "blue","head": "orange"}
+{"name": "Doodle 608", "face": "3d glasses","hair": "pink headband","body": "orange puffer","background": "gradient 4","head": "green"}
+{"name": "Doodle 609", "face": "blue beard","hair": "yellow bowlcut","body": "blue fleece","background": "orange","head": "tan"}
+{"name": "Doodle 610", "face": "surprised","hair": "pink","body": "pink fleece","background": "gradient 3","head": "blue","piercing": "hoop"}
+{"name": "Doodle 611", "face": "aviators with cig","hair": "pink long","body": "green blazer","background": "gradient 4","head": "blue"}
+{"name": "Doodle 612", "face": "chill cig","hair": "blue mohawk","body": "combo 3 puffer","background": "holographic","head": "orange"}
+{"name": "Doodle 613", "face": "skeleton","hair": "green puffballs","body": "grey hoodie","background": "green","head": "yellow"}
+{"name": "Doodle 614", "face": "3d glasses","hair": "blue puffballs","body": "pink fleece","background": "orange","head": "blue"}
+{"name": "Doodle 615", "face": "grumpy","hair": "brown mullet","body": "purple chain","background": "grey","head": "purple"}
+{"name": "Doodle 616", "face": "aviators with cig","hair": "halo","body": "combo 2 puffer","background": "gradient 2","head": "blue"}
+{"name": "Doodle 617", "face": "default","hair": "blue toque","body": "orange puffer","background": "sky","head": "purple","piercing": "pearl"}
+{"name": "Doodle 618", "face": "happy","hair": "cowboy","body": "green hoodie","background": "gradient 2","head": "gradient 1","piercing": "pearl"}
+{"name": "Doodle 619", "face": "grumpy","hair": "green brushcut","body": "striped sweater","background": "green","head": "gradient 1"}
+{"name": "Doodle 620", "face": "grumpy","hair": "beige bucket cap","body": "light blue puffer","background": "orange","head": "tan"}
+{"name": "Doodle 621", "face": "in love","hair": "yellow toque","body": "pink puffer","background": "gradient 2","head": "tan","piercing": "pearl"}
+{"name": "Doodle 622", "face": "cobain glasses","hair": "blue messy","body": "combo 1 puffer","background": "gradient 3","head": "orange","piercing": "airpod"}
+{"name": "Doodle 623", "face": "surprised","hair": "green brushcut","body": "pink and green jacket","background": "gradient 1","head": "blue"}
+{"name": "Doodle 624", "face": "mustache","hair": "blue afro","body": "pink sweater with satchel","background": "light blue","head": "blue"}
+{"name": "Doodle 625", "face": "surprised","hair": "purple puffballs","body": "pink backpack","background": "gradient 4","head": "gradient 2"}
+{"name": "Doodle 626", "face": "surprised","hair": "halo","body": "pink and white jacket","background": "fire","head": "pale","piercing": "airpod"}
+{"name": "Doodle 627", "face": "straw","hair": "yellow toque","body": "combo 1 puffer","background": "orange","head": "med","piercing": "pearl"}
+{"name": "Doodle 628", "face": "mustache","hair": "beige bucket cap","body": "pink puffer","background": "light blue","head": "yellow"}
+{"name": "Doodle 629", "face": "rainbow puke","hair": "brown mullet","body": "striped sweater","background": "blue","head": "purple"}
+{"name": "Doodle 630", "face": "designer glasses","hair": "pink headband","body": "navy sweater","background": "orange","head": "med"}
+{"name": "Doodle 631", "face": "in love","hair": "pink bucket cap","body": "green blazer","background": "gradient 3","head": "purple"}
+{"name": "Doodle 632", "face": "default","hair": "purple alfalfa","body": "green hoodie","background": "pink","head": "pink"}
+{"name": "Doodle 633", "face": "aviators with cig","hair": "yellow headband","body": "purple sweater with satchel","background": "orange","head": "yellow"}
+{"name": "Doodle 634", "face": "designer glasses","hair": "blue mohawk","body": "orange puffer","background": "gradient 4","head": "orange"}
+{"name": "Doodle 635", "face": "happy","hair": "pink toque","body": "yellow backpack","background": "yellow","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 636", "face": "neutral note","hair": "blue brushcut","body": "yellow backpack","background": "gradient 4","head": "med"}
+{"name": "Doodle 637", "face": "in love","hair": "blue afro","body": "pink backpack","background": "sky","head": "tan"}
+{"name": "Doodle 638", "face": "surprised","hair": "green mullet","body": "light blue puffer","background": "light blue","head": "pale"}
+{"name": "Doodle 639", "face": "content","hair": "wizard","body": "purple sweater with satchel","background": "pink","head": "yellow"}
+{"name": "Doodle 640", "face": "default","hair": "wizard","body": "combo 3 puffer","background": "yellow","head": "blue"}
+{"name": "Doodle 641", "face": "content","hair": "pink bucket cap","body": "purple chain","background": "space","head": "green"}
+{"name": "Doodle 642", "face": "grumpy","hair": "blue alfalfa","body": "white sweater","background": "grey","head": "orange"}
+{"name": "Doodle 643", "face": "chill cig","hair": "pink bucket cap","body": "purple chain","background": "grey","head": "blue"}
+{"name": "Doodle 644", "face": "3d glasses","hair": "green brushcut","body": "pink and white jacket","background": "purple","head": "green","piercing": "pearl"}
+{"name": "Doodle 645", "face": "designer glasses","hair": "blue puffballs","body": "pink and white jacket","background": "gradient 4","head": "gradient 2","piercing": "hoop"}
+{"name": "Doodle 646", "face": "content","hair": "cowboy","body": "yellow turtleneck","background": "gradient 4","head": "gradient 1","piercing": "hoop"}
+{"name": "Doodle 647", "face": "in love","hair": "helmet","body": "light blue puffer","background": "blue","head": "pale"}
+{"name": "Doodle 648", "face": "content","hair": "purple puffballs","body": "combo 2 puffer","background": "gradient 2","head": "gradient 2","piercing": "hoop"}
+{"name": "Doodle 649", "face": "bandana","hair": "green brushcut","body": "pink and green jacket","background": "purple","head": "purple"}
+{"name": "Doodle 650", "face": "straw","hair": "pink headband","body": "pink sweater with satchel","background": "orange","head": "yellow"}
+{"name": "Doodle 651", "face": "holographic beard","hair": "blue brushcut","body": "striped sweater","background": "blue","head": "pale","piercing": "hoop"}
+{"name": "Doodle 652", "face": "surprised","hair": "blue messy","body": "white collar","background": "gradient 2","head": "yellow"}
+{"name": "Doodle 653", "face": "straw","hair": "holographic crown","body": "pink and white jacket","background": "purple","head": "pink","piercing": "airpod"}
+{"name": "Doodle 654", "face": "in love","hair": "green bowlcut","body": "purple chain","background": "green","head": "green","piercing": "hoop"}
+{"name": "Doodle 655", "face": "default","hair": "yellow bowlcut","body": "grey hoodie","background": "space","head": "purple"}
+{"name": "Doodle 656", "face": "mustache","hair": "yellow backwards cap","body": "blue backpack","background": "blue","head": "pale","piercing": "pearl"}
+{"name": "Doodle 657", "face": "neutral note","hair": "white bucket cap","body": "grey hoodie","background": "grey","head": "gradient 1","piercing": "airpod"}
+{"name": "Doodle 658", "face": "straw","hair": "pink long","body": "pink and white jacket","background": "space","head": "tan","piercing": "airpod"}
+{"name": "Doodle 659", "face": "in love","hair": "purple puffballs","body": "yellow backpack","background": "green","head": "med","piercing": "hoop"}
+{"name": "Doodle 660", "face": "skeleton","hair": "blue mohawk","body": "pink and white jacket","background": "orange","head": "tan","piercing": "airpod"}
+{"name": "Doodle 661", "face": "aviators with mustache","hair": "blue alfalfa","body": "purple chain","background": "blue","head": "gradient 1"}
+{"name": "Doodle 662", "face": "straw","background": "yellow","head": "balloon"}
+{"name": "Doodle 663", "face": "chill cig","background": "gradient 3","head": "icecream"}
+{"name": "Doodle 664", "face": "chill cig","hair": "green puffballs","body": "green blazer","background": "purple","head": "gradient 1"}
+{"name": "Doodle 665", "face": "sunglasses","hair": "purple puffballs","body": "blue fleece","background": "green","head": "pink"}
+{"name": "Doodle 666", "face": "neutral note","hair": "brown brushcut","body": "pink sweater with satchel","background": "yellow","head": "pink"}
+{"name": "Doodle 667", "face": "happy","hair": "shaved","body": "pink and white jacket","background": "blue","head": "pale","piercing": "hoop"}
+{"name": "Doodle 668", "face": "default","hair": "blue puffballs","body": "green hoodie","background": "gradient 4","head": "gradient 1"}
+{"name": "Doodle 669", "face": "content","hair": "brown mullet","body": "combo 3 puffer","background": "gradient 1","head": "pale","piercing": "pearl"}
+{"name": "Doodle 670", "face": "skeleton","hair": "blue brushcut","body": "purple chain","background": "pink","head": "orange"}
+{"name": "Doodle 671", "face": "content","hair": "helmet","body": "green hoodie","background": "gradient 1","head": "blue"}
+{"name": "Doodle 672", "face": "aviators with cig","hair": "purple alfalfa","body": "white turtleneck","background": "gradient 3","head": "pink"}
+{"name": "Doodle 673", "face": "bandana","hair": "holographic mohawk","body": "spotted hoodie","background": "gradient 4","head": "purple"}
+{"name": "Doodle 674", "face": "3d glasses","hair": "yellow bowlcut","body": "blue backpack","background": "gradient 2","head": "med","piercing": "hoop"}
+{"name": "Doodle 675", "face": "chill cig","hair": "blue brushcut","body": "pink fleece","background": "orange","head": "orange"}
+{"name": "Doodle 676", "face": "grumpy","hair": "purple alfalfa","body": "pink fleece","background": "gradient 3","head": "blue"}
+{"name": "Doodle 677", "face": "neutral note","hair": "pink toque","body": "grey hoodie","background": "space","head": "blue"}
+{"name": "Doodle 678", "face": "sunglasses","hair": "shaved","body": "pink puffer","background": "pink","head": "purple"}
+{"name": "Doodle 679", "face": "holographic beard","hair": "green puffballs","body": "light blue puffer","background": "orange","head": "pink"}
+{"name": "Doodle 680", "face": "surprised","hair": "shaved","body": "pink and white jacket","background": "blue","head": "gradient 1"}
+{"name": "Doodle 681", "face": "happy","body": "purple sweater with satchel","background": "yellow","head": "devil"}
+{"name": "Doodle 682", "face": "grumpy","hair": "beige bucket cap","body": "pink and green jacket","background": "purple","head": "orange"}
+{"name": "Doodle 683", "face": "straw","hair": "halo","body": "yellow puffer","background": "gradient 1","head": "gradient 2"}
+{"name": "Doodle 684", "face": "chill cig","hair": "cowboy","body": "pink fleece","background": "gradient 3","head": "purple","piercing": "hoop"}
+{"name": "Doodle 685", "face": "aviators with mustache","hair": "pink long","body": "blue fleece","background": "gradient 2","head": "yellow"}
+{"name": "Doodle 686", "face": "aviators with cig","hair": "pink tidy","body": "purple sweater with satchel","background": "pink","head": "green","piercing": "hoop"}
+{"name": "Doodle 687", "face": "sad note","hair": "green brushcut","body": "white turtleneck","background": "blue","head": "orange"}
+{"name": "Doodle 688", "face": "cobain glasses","hair": "purple brushcut","body": "combo 1 puffer","background": "grey","head": "blue"}
+{"name": "Doodle 689", "face": "sunglasses","hair": "blue afro","body": "white turtleneck","background": "gradient 3","head": "orange"}
+{"name": "Doodle 690", "face": "in love","hair": "pink toque","body": "pink puffer","background": "iridescent","head": "purple"}
+{"name": "Doodle 691", "face": "in love","hair": "blue messy","body": "light blue puffer","background": "gradient 2","head": "pink"}
+{"name": "Doodle 692", "face": "designer glasses","hair": "blue alfalfa","body": "green blazer","background": "gradient 2","head": "blue"}
+{"name": "Doodle 693", "face": "grumpy","hair": "green brushcut","body": "orange collar","background": "sky","head": "orange","piercing": "pearl"}
+{"name": "Doodle 694", "face": "grumpy","hair": "green puffballs","body": "white turtleneck","background": "blue","head": "pale"}
+{"name": "Doodle 695", "face": "designer glasses","hair": "cowboy","body": "yellow turtleneck","background": "blue","head": "tan"}
+{"name": "Doodle 696", "face": "cobain glasses","hair": "holographic afro","body": "pink fleece","background": "blue","head": "green"}
+{"name": "Doodle 697", "face": "happy","hair": "yellow bowlcut","body": "blue blazer","background": "green","head": "gradient 1","piercing": "airpod"}
+{"name": "Doodle 698", "face": "chill cig","hair": "wizard","body": "pink puffer","background": "purple","head": "med"}
+{"name": "Doodle 699", "face": "cobain glasses","hair": "holographic mohawk","body": "blue turtleneck","background": "light blue","head": "orange"}
+{"name": "Doodle 700", "face": "default","hair": "green bowlcut","body": "pink hoodie","background": "sky","head": "pale"}
+{"name": "Doodle 701", "face": "3d glasses","hair": "green bowlcut","body": "green hoodie","background": "light blue","head": "pale"}
+{"name": "Doodle 702", "face": "blue beard","hair": "cowboy","body": "combo 3 puffer","background": "gradient 2","head": "pink"}
+{"name": "Doodle 703", "face": "in love","background": "space","head": "balloon"}
+{"name": "Doodle 704", "face": "content","hair": "pink long","body": "grey hoodie","background": "gradient 3","head": "pale"}
+{"name": "Doodle 705", "face": "designer glasses","hair": "blue alfalfa","body": "grey hoodie","background": "green","head": "pink"}
+{"name": "Doodle 706", "face": "content","hair": "pink long","body": "pink hoodie","background": "orange","head": "purple"}
+{"name": "Doodle 707", "face": "green beard","hair": "blue alfalfa","body": "white puffer","background": "gradient 4","head": "tan","piercing": "pearl"}
+{"name": "Doodle 708", "face": "in love","hair": "purple puffballs","body": "yellow backpack","background": "blue","head": "orange"}
+{"name": "Doodle 709", "face": "chill cig","hair": "pink bucket cap","body": "striped sweater","background": "gradient 2","head": "tan"}
+{"name": "Doodle 710", "face": "in love","hair": "green puffballs","body": "blue turtleneck","background": "holographic","head": "med"}
+{"name": "Doodle 711", "face": "chill cig","hair": "purple cap","body": "orange puffer","background": "purple","head": "yellow"}
+{"name": "Doodle 712", "face": "default","hair": "helmet","body": "white turtleneck","background": "orange","head": "med"}
+{"name": "Doodle 713", "face": "bandana","hair": "brown brushcut","body": "white collar","background": "gradient 1","head": "yellow"}
+{"name": "Doodle 714", "face": "grumpy","hair": "green mullet","body": "pink backpack","background": "grey","head": "tan"}
+{"name": "Doodle 715", "face": "grumpy","hair": "sailor","body": "blue fleece","background": "iridescent","head": "gradient 1","piercing": "pearl"}
+{"name": "Doodle 716", "face": "default","hair": "green bowlcut","body": "blue fleece","background": "grey","head": "med"}
+{"name": "Doodle 717", "face": "happy","hair": "purple long","body": "purple sweater with satchel","background": "grey","head": "pink","piercing": "pearl"}
+{"name": "Doodle 718", "face": "surprised","hair": "white bucket cap","body": "navy sweater","background": "gradient 3","head": "tan","piercing": "airpod"}
+{"name": "Doodle 719", "face": "mad note","hair": "purple cap","body": "combo 3 puffer","background": "orange","head": "green"}
+{"name": "Doodle 720", "face": "default","hair": "purple puffballs","body": "purple sweater with satchel","background": "green","head": "green"}
+{"name": "Doodle 721", "face": "happy note","hair": "blue alfalfa","body": "combo 3 puffer","background": "holographic","head": "med"}
+{"name": "Doodle 722", "face": "mustache","hair": "pink tidy","body": "light blue puffer","background": "light blue","head": "pale"}
+{"name": "Doodle 723", "face": "happy","hair": "pink headband","body": "white turtleneck","background": "gradient 2","head": "gradient 1","piercing": "pearl"}
+{"name": "Doodle 724", "face": "designer glasses","hair": "green bowlcut","body": "pink and white jacket","background": "pink","head": "tan"}
+{"name": "Doodle 725", "face": "mustache","hair": "shaved","body": "blue backpack","background": "fire","head": "orange"}
+{"name": "Doodle 726", "face": "grumpy","hair": "blue puffballs","body": "pink fleece","background": "gradient 1","head": "orange"}
+{"name": "Doodle 727", "face": "mustache","hair": "green mullet","body": "pink backpack","background": "pink","head": "tan"}
+{"name": "Doodle 728", "face": "content","hair": "cowboy","body": "holographic sweater","background": "iridescent","head": "blue"}
+{"name": "Doodle 729", "face": "grumpy","hair": "brown mullet","body": "blue backpack","background": "green","head": "pink"}
+{"name": "Doodle 730", "face": "in love","hair": "blue mohawk","body": "pink sweater with satchel","background": "holographic","head": "blue"}
+{"name": "Doodle 731", "face": "pink beard","hair": "purple puffballs","body": "pink sweater with satchel","background": "grey","head": "gradient 1"}
+{"name": "Doodle 732", "face": "mad note","hair": "purple brushcut","body": "yellow puffer","background": "grey","head": "purple"}
+{"name": "Doodle 733", "face": "default","hair": "yellow headband","body": "light blue puffer","background": "gradient 1","head": "yellow"}
+{"name": "Doodle 734", "face": "chill cig","hair": "purple puffballs","body": "pink fleece","background": "purple","head": "pink","piercing": "hoop"}
+{"name": "Doodle 735", "face": "3d glasses","body": "pink hoodie","background": "yellow","head": "devil"}
+{"name": "Doodle 736", "face": "cobain glasses","hair": "pink long","body": "pink puffer","background": "yellow","head": "pale"}
+{"name": "Doodle 737", "face": "3d glasses","hair": "pink headband","body": "blue and yellow jacket","background": "holographic","head": "purple"}
+{"name": "Doodle 738", "face": "bandana","hair": "green puffballs","body": "pink puffer","background": "pink","head": "pale"}
+{"name": "Doodle 739", "face": "content","hair": "green mullet","body": "navy sweater","background": "gradient 4","head": "purple"}
+{"name": "Doodle 740", "face": "sunglasses","hair": "purple cap","body": "pink and green jacket","background": "green","head": "med"}
+{"name": "Doodle 741", "face": "straw","hair": "blue nerd","body": "purple sweater with satchel","background": "grey","head": "gradient 1"}
+{"name": "Doodle 742", "face": "surprised","hair": "pink long","body": "pink and green jacket","background": "gradient 4","head": "pink","piercing": "airpod"}
+{"name": "Doodle 743", "face": "designer glasses","hair": "pink headband","body": "pink fleece","background": "gradient 4","head": "blue","piercing": "hoop"}
+{"name": "Doodle 744", "face": "straw","hair": "white bucket cap","body": "green hoodie","background": "orange","head": "tan","piercing": "hoop"}
+{"name": "Doodle 745", "face": "in love","hair": "blue nerd","body": "orange puffer","background": "light blue","head": "tan"}
+{"name": "Doodle 746", "face": "happy","hair": "halo","body": "white collar","background": "orange","head": "orange"}
+{"name": "Doodle 747", "face": "cobain glasses","hair": "blue brushcut","body": "white sweater","background": "iridescent","head": "orange"}
+{"name": "Doodle 748", "face": "happy","hair": "white bucket cap","body": "yellow backpack","background": "space","head": "pink"}
+{"name": "Doodle 749", "face": "cat","hair": "blue bucket cap","body": "cat","background": "iridescent","head": "cat"}
+{"name": "Doodle 750", "face": "content","hair": "yellow backwards cap","body": "combo 2 puffer","background": "holographic","head": "tan"}
+{"name": "Doodle 751", "face": "happy note","hair": "green bowlcut","body": "orange collar","background": "purple","head": "pale"}
+{"name": "Doodle 752", "face": "chill cig","hair": "purple puffballs","body": "yellow backpack","background": "pink","head": "green","piercing": "airpod"}
+{"name": "Doodle 753", "face": "cobain glasses","body": "pink puffer","background": "grey","head": "coffee"}
+{"name": "Doodle 754", "face": "content","hair": "white bucket cap","body": "light blue puffer","background": "orange","head": "blue"}
+{"name": "Doodle 755", "face": "cobain glasses","hair": "blue puffballs","body": "striped sweater","background": "orange","head": "pale"}
+{"name": "Doodle 756", "face": "grumpy","hair": "pink long","body": "blue turtleneck","background": "holographic","head": "pale"}
+{"name": "Doodle 757", "face": "surprised","hair": "blue afro","body": "white collar","background": "space","head": "yellow"}
+{"name": "Doodle 758", "face": "in love","hair": "purple cap","body": "pink hoodie","background": "grey","head": "tan"}
+{"name": "Doodle 759", "face": "designer glasses","hair": "green puffballs","body": "blue and yellow jacket","background": "gradient 1","head": "purple","piercing": "pearl"}
+{"name": "Doodle 760", "face": "default","hair": "pink toque","body": "blue turtleneck","background": "purple","head": "pink"}
+{"name": "Doodle 761", "face": "mustache","hair": "white bucket cap","body": "orange puffer","background": "purple","head": "pale"}
+{"name": "Doodle 762", "face": "green beard","hair": "white bucket cap","body": "navy sweater","background": "light blue","head": "med","piercing": "airpod"}
+{"name": "Doodle 763", "face": "cobain glasses","hair": "poopie","body": "blue fleece","background": "gradient 3","head": "med"}
+{"name": "Doodle 764", "face": "happy","hair": "green mullet","body": "green hoodie","background": "gradient 2","head": "purple"}
+{"name": "Doodle 765", "face": "straw","hair": "purple long","body": "yellow puffer","background": "sky","head": "med"}
+{"name": "Doodle 766", "face": "surprised","hair": "shaved","body": "yellow puffer","background": "gradient 4","head": "pink"}
+{"name": "Doodle 767", "face": "surprised","hair": "yellow backwards cap","body": "pink fleece","background": "blue","head": "tan"}
+{"name": "Doodle 768", "face": "happy","hair": "purple alfalfa","body": "orange puffer","background": "purple","head": "green"}
+{"name": "Doodle 769", "face": "mustache","hair": "blue puffballs","body": "white turtleneck","background": "gradient 2","head": "gradient 1","piercing": "hoop"}
+{"name": "Doodle 770", "face": "surprised","hair": "cowboy","body": "white sweater","background": "sky","head": "med"}
+{"name": "Doodle 771", "face": "aviators with cig","hair": "brown mullet","body": "striped sweater","background": "gradient 2","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 772", "face": "content","hair": "helmet","body": "white turtleneck","background": "sky","head": "yellow","piercing": "airpod"}
+{"name": "Doodle 773", "face": "in love","hair": "helmet","body": "white puffer","background": "light blue","head": "med"}
+{"name": "Doodle 774", "face": "happy note","hair": "purple long","body": "light blue puffer","background": "orange","head": "med","piercing": "hoop"}
+{"name": "Doodle 775", "face": "surprised","hair": "brown brushcut","body": "yellow turtleneck","background": "iridescent","head": "pale"}
+{"name": "Doodle 776", "face": "ape","hair": "ape","body": "green blazer","background": "green","head": "ape"}
+{"name": "Doodle 777", "face": "in love","hair": "yellow toque","body": "combo 2 puffer","background": "grey","head": "purple"}
+{"name": "Doodle 778", "face": "happy","hair": "yellow backwards cap","body": "blue backpack","background": "gradient 1","head": "blue"}
+{"name": "Doodle 779", "face": "blue beard","hair": "blue alfalfa","body": "blue turtleneck","background": "yellow","head": "green","piercing": "hoop"}
+{"name": "Doodle 780", "face": "grumpy","hair": "pink toque","body": "orange collar","background": "yellow","head": "med","piercing": "pearl"}
+{"name": "Doodle 781", "face": "default","hair": "shaved","body": "combo 3 puffer","background": "gradient 2","head": "green"}
+{"name": "Doodle 782", "face": "sunglasses","hair": "shaved","body": "white sweater","background": "gradient 4","head": "med"}
+{"name": "Doodle 783", "face": "sunglasses","hair": "purple brushcut","body": "pink backpack","background": "green","head": "orange"}
+{"name": "Doodle 784", "face": "chill cig","hair": "blue afro","body": "purple sweater with satchel","background": "gradient 2","head": "gradient 2"}
+{"name": "Doodle 785", "face": "chill cig","hair": "pink headband","body": "pink and green jacket","background": "iridescent","head": "gradient 2","piercing": "hoop"}
+{"name": "Doodle 786", "face": "mustache","hair": "holographic afro","body": "green hoodie","background": "pink","head": "gradient 2","piercing": "airpod"}
+{"name": "Doodle 787", "face": "chill cig","hair": "yellow bowlcut","body": "striped sweater","background": "green","head": "green"}
+{"name": "Doodle 788", "face": "sunglasses","hair": "blue messy","body": "yellow backpack","background": "pink","head": "green"}
+{"name": "Doodle 789", "face": "default","hair": "wizard","body": "combo 2 puffer","background": "holographic","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 790", "face": "happy note","hair": "blue brushcut","body": "yellow turtleneck","background": "light blue","head": "purple","piercing": "pearl"}
+{"name": "Doodle 791", "face": "straw","hair": "purple alfalfa","body": "blue fleece","background": "blue","head": "blue"}
+{"name": "Doodle 792", "face": "content","hair": "blue brushcut","body": "yellow backpack","background": "yellow","head": "purple"}
+{"name": "Doodle 793", "face": "default","hair": "purple long","body": "leopard hoodie","background": "iridescent","head": "tan"}
+{"name": "Doodle 794", "face": "surprised","hair": "green brushcut","body": "white puffer","background": "orange","head": "pink","piercing": "hoop"}
+{"name": "Doodle 795", "face": "mad note","hair": "blue messy","body": "yellow backpack","background": "gradient 3","head": "green","piercing": "hoop"}
+{"name": "Doodle 796", "face": "cobain glasses","hair": "blue alfalfa","body": "pink and white jacket","background": "gradient 4","head": "green"}
+{"name": "Doodle 797", "face": "designer glasses","hair": "purple alfalfa","body": "pink and white jacket","background": "green","head": "med"}
+{"name": "Doodle 798", "face": "mustache","hair": "brown mullet","body": "combo 3 puffer","background": "grey","head": "pale","piercing": "pearl"}
+{"name": "Doodle 799", "face": "designer glasses","hair": "blue puffballs","body": "yellow puffer","background": "green","head": "gradient 1"}
+{"name": "Doodle 800", "face": "surprised","hair": "pink bucket cap","body": "orange puffer","background": "gradient 3","head": "pale"}
+{"name": "Doodle 801", "face": "mustache","hair": "yellow toque","body": "orange collar","background": "orange","head": "tan"}
+{"name": "Doodle 802", "face": "mad note","hair": "holographic bob","body": "light blue puffer","background": "space","head": "purple"}
+{"name": "Doodle 803", "face": "blue check","hair": "purple brushcut","body": "pink puffer","background": "gradient 3","head": "gradient 2"}
+{"name": "Doodle 804", "face": "mustache","hair": "blue toque","body": "blue and yellow jacket","background": "sky","head": "blue"}
+{"name": "Doodle 805", "face": "aviators with mustache","hair": "blue mohawk","body": "yellow backpack","background": "fire","head": "purple","piercing": "pearl"}
+{"name": "Doodle 806", "face": "skeleton","hair": "blue brushcut","body": "white puffer","background": "grey","head": "yellow"}
+{"name": "Doodle 807", "face": "happy note","hair": "brown brushcut","body": "blue fleece","background": "gradient 4","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 808", "face": "content","hair": "white bucket cap","body": "pink fleece","background": "blue","head": "pink"}
+{"name": "Doodle 809", "face": "in love","hair": "blue mohawk","body": "pink sweater with satchel","background": "grey","head": "blue"}
+{"name": "Doodle 810", "face": "sunglasses","hair": "purple cap","body": "pink sweater with satchel","background": "gradient 2","head": "green"}
+{"name": "Doodle 811", "face": "happy","hair": "green puffballs","body": "pink fleece","background": "blue","head": "orange","piercing": "airpod"}
+{"name": "Doodle 812", "face": "content","hair": "white bucket cap","body": "white collar","background": "pink","head": "orange"}
+{"name": "Doodle 813", "face": "surprised","hair": "holographic brushcut","body": "combo 1 puffer","background": "blue","head": "purple"}
+{"name": "Doodle 814", "face": "happy note","hair": "blue brushcut","body": "blue turtleneck","background": "gradient 2","head": "pink"}
+{"name": "Doodle 815", "face": "default","hair": "brown brushcut","body": "yellow turtleneck","background": "light blue","head": "med"}
+{"name": "Doodle 816", "face": "cobain glasses","hair": "purple puffballs","body": "white sweater","background": "gradient 4","head": "gradient 2"}
+{"name": "Doodle 817", "face": "sunglasses","hair": "blue afro","body": "combo 1 puffer","background": "yellow","head": "gradient 2"}
+{"name": "Doodle 818", "face": "chill cig","hair": "pink toque","body": "white puffer","background": "blue","head": "gradient 1"}
+{"name": "Doodle 819", "face": "cobain glasses","hair": "green brushcut","body": "yellow puffer","background": "gradient 1","head": "orange"}
+{"name": "Doodle 820", "face": "bandana","hair": "beige bucket cap","body": "pink sweater with satchel","background": "blue","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 821", "face": "designer glasses","hair": "blue messy","body": "white collar","background": "green","head": "green"}
+{"name": "Doodle 822", "face": "surprised","hair": "green mullet","body": "orange puffer","background": "gradient 3","head": "tan"}
+{"name": "Doodle 823", "face": "surprised","hair": "wizard","body": "green hoodie","background": "iridescent","head": "blue","piercing": "pearl"}
+{"name": "Doodle 824", "face": "sunglasses","hair": "purple puffballs","body": "white turtleneck","background": "gradient 1","head": "yellow"}
+{"name": "Doodle 825", "face": "grumpy","hair": "pink toque","body": "striped sweater","background": "green","head": "med"}
+{"name": "Doodle 826", "face": "cobain glasses","hair": "blue puffballs","body": "pink backpack","background": "purple","head": "blue"}
+{"name": "Doodle 827", "face": "cobain glasses","hair": "green mullet","body": "pink and white jacket","background": "purple","head": "pale"}
+{"name": "Doodle 828", "face": "blue beard","hair": "pink long","body": "light blue puffer","background": "grey","head": "pink","piercing": "airpod"}
+{"name": "Doodle 829", "face": "content","hair": "purple long","body": "striped sweater","background": "yellow","head": "orange"}
+{"name": "Doodle 830", "face": "happy","hair": "purple alfalfa","body": "pink sweater with satchel","background": "light blue","head": "pink"}
+{"name": "Doodle 831", "face": "designer glasses","hair": "brown mullet","body": "yellow turtleneck","background": "holographic","head": "pink"}
+{"name": "Doodle 832", "face": "default","hair": "blue alfalfa","body": "pink and white jacket","background": "orange","head": "blue","piercing": "pearl"}
+{"name": "Doodle 833", "face": "content","hair": "pink long","body": "combo 1 puffer","background": "sky","head": "orange"}
+{"name": "Doodle 834", "face": "straw","hair": "white bucket cap","body": "white sweater","background": "yellow","head": "green","piercing": "pearl"}
+{"name": "Doodle 835", "face": "aviators with cig","hair": "green puffballs","body": "yellow puffer","background": "blue","head": "pink"}
+{"name": "Doodle 836", "face": "skeleton","hair": "blue mohawk","body": "white collar","background": "gradient 3","head": "pink","piercing": "hoop"}
+{"name": "Doodle 837", "face": "straw","hair": "wizard","body": "pink puffer","background": "gradient 4","head": "blue"}
+{"name": "Doodle 838", "face": "designer glasses","hair": "blue nerd","body": "combo 2 puffer","background": "orange","head": "yellow"}
+{"name": "Doodle 839", "face": "surprised","hair": "halo","body": "pink and white jacket","background": "fire","head": "purple"}
+{"name": "Doodle 840", "face": "pink beard","hair": "pink bucket cap","body": "pink backpack","background": "gradient 3","head": "tan"}
+{"name": "Doodle 841", "face": "default","hair": "yellow toque","body": "pink sweater with satchel","background": "gradient 4","head": "blue","piercing": "airpod"}
+{"name": "Doodle 842", "face": "sunglasses","hair": "purple alfalfa","body": "pink hoodie","background": "grey","head": "pink"}
+{"name": "Doodle 843", "face": "happy note","hair": "purple alfalfa","body": "white sweater","background": "gradient 3","head": "blue"}
+{"name": "Doodle 844", "face": "content","hair": "pink long","body": "pink backpack","background": "green","head": "blue","piercing": "hoop"}
+{"name": "Doodle 845", "face": "content","hair": "shaved","body": "green hoodie","background": "gradient 1","head": "pale"}
+{"name": "Doodle 846", "face": "surprised","hair": "yellow backwards cap","body": "pink and green jacket","background": "gradient 3","head": "pink"}
+{"name": "Doodle 847", "face": "grumpy","hair": "blue nerd","body": "pink and green jacket","background": "purple","head": "tan","piercing": "pearl"}
+{"name": "Doodle 848", "face": "sunglasses","hair": "purple puffballs","body": "white turtleneck","background": "green","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 849", "face": "aviators with cig","hair": "yellow headband","body": "pink backpack","background": "gradient 4","head": "gradient 1"}
+{"name": "Doodle 850", "face": "grumpy","hair": "yellow toque","body": "combo 3 puffer","background": "purple","head": "yellow"}
+{"name": "Doodle 851", "face": "bandana","hair": "blue afro","body": "white sweater","background": "gradient 3","head": "purple"}
+{"name": "Doodle 852", "face": "designer glasses","hair": "purple puffballs","body": "combo 3 puffer","background": "gradient 4","head": "orange"}
+{"name": "Doodle 853", "face": "blue check","hair": "blue puffballs","body": "grey hoodie","background": "gradient 3","head": "pale"}
+{"name": "Doodle 854", "face": "surprised","hair": "green puffballs","body": "pink backpack","background": "sky","head": "green","piercing": "airpod"}
+{"name": "Doodle 855", "face": "pink beard","hair": "pink long","body": "pink and green jacket","background": "gradient 1","head": "med"}
+{"name": "Doodle 856", "face": "happy","hair": "purple long","body": "blue fleece","background": "yellow","head": "purple"}
+{"name": "Doodle 857", "face": "happy","hair": "blue nerd","body": "white collar","background": "gradient 1","head": "purple"}
+{"name": "Doodle 858", "face": "designer glasses","hair": "holographic mohawk","body": "pink and green jacket","background": "space","head": "blue"}
+{"name": "Doodle 859", "face": "default","hair": "brown brushcut","body": "white collar","background": "fire","head": "green"}
+{"name": "Doodle 860", "face": "happy","hair": "shaved","body": "white sweater","background": "gradient 3","head": "tan"}
+{"name": "Doodle 861", "face": "in love","hair": "holographic brushcut","body": "yellow turtleneck","background": "green","head": "pale"}
+{"name": "Doodle 862", "face": "grumpy","hair": "green brushcut","body": "pink puffer","background": "space","head": "gradient 2"}
+{"name": "Doodle 863", "face": "happy note","hair": "white bucket cap","body": "yellow turtleneck","background": "sky","head": "yellow"}
+{"name": "Doodle 864", "face": "straw","hair": "purple brushcut","body": "navy sweater","background": "purple","head": "blue"}
+{"name": "Doodle 865", "face": "blue check","hair": "green mullet","body": "pink and green jacket","background": "green","head": "gradient 2"}
+{"name": "Doodle 866", "face": "aviators with cig","hair": "blue mohawk","body": "combo 2 puffer","background": "pink","head": "tan"}
+{"name": "Doodle 867", "face": "neutral note","hair": "pink headband","body": "combo 3 puffer","background": "pink","head": "tan"}
+{"name": "Doodle 868", "face": "surprised","hair": "yellow backwards cap","body": "orange puffer","background": "gradient 4","head": "yellow","piercing": "airpod"}
+{"name": "Doodle 869", "face": "sunglasses","hair": "green mullet","body": "white puffer","background": "holographic","head": "med","piercing": "hoop"}
+{"name": "Doodle 870", "face": "mustache","background": "gradient 4","head": "popsicle"}
+{"name": "Doodle 871", "face": "in love","hair": "purple cap","body": "combo 1 puffer","background": "gradient 1","head": "gradient 2"}
+{"name": "Doodle 872", "face": "mad note","hair": "pink toque","body": "orange puffer","background": "grey","head": "orange"}
+{"name": "Doodle 873", "face": "in love","hair": "harley","body": "green hoodie","background": "pink","head": "med"}
+{"name": "Doodle 874", "face": "default","hair": "purple long","body": "pink hoodie","background": "pink","head": "green"}
+{"name": "Doodle 875", "face": "default","hair": "pink bucket cap","body": "blue turtleneck","background": "blue","head": "gradient 2","piercing": "hoop"}
+{"name": "Doodle 876", "face": "surprised","hair": "yellow bowlcut","body": "grey hoodie","background": "green","head": "purple"}
+{"name": "Doodle 877", "face": "mustache","hair": "helmet","body": "green blazer","background": "gradient 3","head": "pale","piercing": "hoop"}
+{"name": "Doodle 878", "face": "grumpy","hair": "white bucket cap","body": "combo 1 puffer","background": "iridescent","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 879", "face": "blue beard","hair": "green bowlcut","body": "pink hoodie","background": "green","head": "tan"}
+{"name": "Doodle 880", "face": "surprised","hair": "yellow backwards cap","body": "navy sweater","background": "gradient 2","head": "yellow"}
+{"name": "Doodle 881", "face": "mustache","hair": "helmet","body": "combo 3 puffer","background": "blue","head": "green"}
+{"name": "Doodle 882", "face": "designer glasses","hair": "shaved","body": "white sweater","background": "purple","head": "purple","piercing": "pearl"}
+{"name": "Doodle 883", "face": "content","hair": "purple brushcut","body": "combo 2 puffer","background": "purple","head": "blue"}
+{"name": "Doodle 884", "face": "grumpy","hair": "yellow backwards cap","body": "blue fleece","background": "gradient 3","head": "pink"}
+{"name": "Doodle 885", "face": "mustache","hair": "purple cap","body": "pink hoodie","background": "blue","head": "pink"}
+{"name": "Doodle 886", "face": "designer glasses","hair": "green puffballs","body": "pink backpack","background": "pink","head": "purple"}
+{"name": "Doodle 887", "face": "mustache","hair": "blue brushcut","body": "blue backpack","background": "fire","head": "med","piercing": "hoop"}
+{"name": "Doodle 888", "face": "blue check","hair": "white bucket cap","body": "combo 2 puffer","background": "gradient 1","head": "gradient 1","piercing": "hoop"}
+{"name": "Doodle 889", "face": "default","hair": "green brushcut","body": "combo 1 puffer","background": "green","head": "tan"}
+{"name": "Doodle 890", "face": "sunglasses","hair": "brown mullet","body": "white puffer","background": "green","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 891", "face": "grumpy","hair": "poopie","body": "blue and yellow jacket","background": "orange","head": "pale"}
+{"name": "Doodle 892", "face": "grumpy","hair": "viking","body": "purple sweater with satchel","background": "gradient 1","head": "tan"}
+{"name": "Doodle 893", "face": "sad note","hair": "green bowlcut","body": "white puffer","background": "green","head": "orange","piercing": "pearl"}
+{"name": "Doodle 894", "face": "happy","hair": "pink","body": "pink and white jacket","background": "sky","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 895", "face": "bandana","hair": "brown brushcut","body": "combo 2 puffer","background": "gradient 3","head": "yellow"}
+{"name": "Doodle 896", "face": "pink beard","hair": "yellow bowlcut","body": "blue fleece","background": "grey","head": "pale"}
+{"name": "Doodle 897", "face": "cobain glasses","hair": "blue alfalfa","body": "blue backpack","background": "gradient 2","head": "purple"}
+{"name": "Doodle 898", "face": "chill cig","hair": "blue toque","body": "blue backpack","background": "gradient 2","head": "orange","piercing": "hoop"}
+{"name": "Doodle 899", "face": "default","hair": "pink bucket cap","body": "combo 3 puffer","background": "blue","head": "med"}
+{"name": "Doodle 900", "face": "green beard","hair": "yellow bowlcut","body": "blue fleece","background": "gradient 1","head": "blue"}
+{"name": "Doodle 901", "face": "designer glasses","hair": "blue mohawk","body": "pink and green jacket","background": "pink","head": "orange"}
+{"name": "Doodle 902", "face": "in love","hair": "green bowlcut","body": "grey hoodie","background": "pink","head": "green"}
+{"name": "Doodle 903", "face": "grumpy","hair": "viking","body": "orange puffer","background": "purple","head": "tan"}
+{"name": "Doodle 904", "face": "sunglasses","hair": "shaved","body": "pink fleece","background": "light blue","head": "tan","piercing": "pearl"}
+{"name": "Doodle 905", "face": "designer glasses","hair": "pink tidy","body": "pink fleece","background": "gradient 2","head": "green"}
+{"name": "Doodle 906", "face": "default","hair": "beige bucket cap","body": "spotted hoodie","background": "holographic","head": "med"}
+{"name": "Doodle 907", "face": "designer glasses","hair": "purple puffballs","body": "blue backpack","background": "light blue","head": "blue"}
+{"name": "Doodle 908", "face": "cobain glasses","hair": "pink","body": "striped sweater","background": "gradient 4","head": "blue"}
+{"name": "Doodle 909", "face": "sunglasses","hair": "green brushcut","body": "purple sweater with satchel","background": "yellow","head": "green"}
+{"name": "Doodle 910", "face": "designer glasses","hair": "blue messy","body": "blue fleece","background": "green","head": "pale"}
+{"name": "Doodle 911", "face": "pink beard","hair": "green bowlcut","body": "striped sweater","background": "light blue","head": "yellow"}
+{"name": "Doodle 912", "face": "designer glasses","hair": "green mullet","body": "green hoodie","background": "fire","head": "tan"}
+{"name": "Doodle 913", "face": "sad note","hair": "purple brushcut","body": "pink and white jacket","background": "fire","head": "purple","piercing": "hoop"}
+{"name": "Doodle 914", "face": "grumpy","hair": "pink bucket cap","body": "white turtleneck","background": "gradient 4","head": "yellow","piercing": "pearl"}
+{"name": "Doodle 915", "face": "designer glasses","hair": "yellow headband","body": "purple sweater with satchel","background": "grey","head": "pale","piercing": "hoop"}
+{"name": "Doodle 916", "face": "aviators with cig","hair": "shaved","body": "grey hoodie","background": "gradient 4","head": "pink"}
+{"name": "Doodle 917", "face": "ape","hair": "ape","body": "holographic sweater","background": "yellow","head": "ape"}
+{"name": "Doodle 918", "face": "in love","hair": "blue brushcut","body": "yellow puffer","background": "green","head": "blue","piercing": "hoop"}
+{"name": "Doodle 919", "face": "surprised","hair": "brown mullet","body": "blue blazer","background": "iridescent","head": "tan"}
+{"name": "Doodle 920", "face": "surprised","hair": "white bucket cap","body": "pink fleece","background": "fire","head": "green","piercing": "pearl"}
+{"name": "Doodle 921", "face": "happy","hair": "harley","body": "white puffer","background": "iridescent","head": "yellow"}
+{"name": "Doodle 922", "face": "chill cig","hair": "holographic poopie","body": "white turtleneck","background": "gradient 2","head": "pink"}
+{"name": "Doodle 923", "face": "designer glasses","hair": "brown brushcut","body": "white turtleneck","background": "gradient 3","head": "pink","piercing": "airpod"}
+{"name": "Doodle 924", "face": "holographic beard","hair": "blue afro","body": "green hoodie","background": "holographic","head": "pink"}
+{"name": "Doodle 925", "face": "surprised","hair": "blue puffballs","body": "purple sweater with satchel","background": "yellow","head": "pink"}
+{"name": "Doodle 926", "face": "surprised","hair": "green bowlcut","body": "navy sweater","background": "light blue","head": "med"}
+{"name": "Doodle 927", "face": "cobain glasses","hair": "green brushcut","body": "pink fleece","background": "yellow","head": "blue"}
+{"name": "Doodle 928", "face": "designer glasses","hair": "brown brushcut","body": "pink sweater with satchel","background": "gradient 1","head": "orange","piercing": "pearl"}
+{"name": "Doodle 929", "face": "sunglasses","hair": "green mullet","body": "white puffer","background": "purple","head": "orange"}
+{"name": "Doodle 930", "face": "happy","hair": "shaved","body": "pink fleece","background": "gradient 2","head": "tan"}
+{"name": "Doodle 931", "face": "neutral note","hair": "green puffballs","body": "orange puffer","background": "blue","head": "purple","piercing": "hoop"}
+{"name": "Doodle 932", "face": "sunglasses","hair": "blue nerd","body": "grey hoodie","background": "pink","head": "purple"}
+{"name": "Doodle 933", "face": "blue beard","hair": "pink long","body": "blue fleece","background": "gradient 2","head": "med","piercing": "airpod"}
+{"name": "Doodle 934", "face": "happy","hair": "crown","body": "blue turtleneck","background": "pink","head": "pink","piercing": "airpod"}
+{"name": "Doodle 935", "face": "surprised","hair": "yellow bowlcut","body": "yellow backpack","background": "orange","head": "gradient 2"}
+{"name": "Doodle 936", "face": "surprised","hair": "blue puffballs","body": "yellow turtleneck","background": "space","head": "green"}
+{"name": "Doodle 937", "face": "neutral note","hair": "pink tidy","body": "pink and white jacket","background": "light blue","head": "purple","piercing": "hoop"}
+{"name": "Doodle 938", "face": "blue beard","hair": "viking","body": "white puffer","background": "green","head": "pale"}
+{"name": "Doodle 939", "face": "sunglasses","hair": "purple alfalfa","body": "blue turtleneck","background": "yellow","head": "purple","piercing": "hoop"}
+{"name": "Doodle 940", "face": "blue beard","hair": "yellow toque","body": "green hoodie","background": "gradient 4","head": "tan"}
+{"name": "Doodle 941", "face": "straw","hair": "pink bucket cap","body": "grey hoodie","background": "purple","head": "pale"}
+{"name": "Doodle 942", "face": "surprised","hair": "white bucket cap","body": "blue fleece","background": "holographic","head": "med","piercing": "pearl"}
+{"name": "Doodle 943", "face": "sunglasses","hair": "pink tidy","body": "pink hoodie","background": "gradient 4","head": "blue","piercing": "hoop"}
+{"name": "Doodle 944", "face": "happy","hair": "helmet","body": "grey hoodie","background": "gradient 4","head": "yellow"}
+{"name": "Doodle 945", "face": "mustache","hair": "brown brushcut","body": "white puffer","background": "orange","head": "purple"}
+{"name": "Doodle 946", "face": "mustache","hair": "yellow headband","body": "white turtleneck","background": "gradient 3","head": "orange"}
+{"name": "Doodle 947", "face": "grumpy","hair": "pink long","body": "combo 3 puffer","background": "green","head": "purple"}
+{"name": "Doodle 948", "face": "default","hair": "brown mullet","body": "yellow turtleneck","background": "gradient 4","head": "pale"}
+{"name": "Doodle 949", "face": "happy","hair": "blue nerd","body": "combo 2 puffer","background": "blue","head": "purple","piercing": "airpod"}
+{"name": "Doodle 950", "face": "surprised","hair": "yellow toque","body": "leopard hoodie","background": "sky","head": "orange"}
+{"name": "Doodle 951", "face": "designer glasses","hair": "yellow headband","body": "yellow backpack","background": "grey","head": "gradient 1","piercing": "pearl"}
+{"name": "Doodle 952", "face": "chill cig","hair": "holographic afro","body": "pink hoodie","background": "gradient 4","head": "pink","piercing": "hoop"}
+{"name": "Doodle 953", "face": "chill cig","hair": "blue puffballs","body": "spotted sweater","background": "blue","head": "orange"}
+{"name": "Doodle 954", "face": "pink beard","hair": "pink bucket cap","body": "navy sweater","background": "gradient 1","head": "green"}
+{"name": "Doodle 955", "face": "sad note","hair": "blue brushcut","body": "striped sweater","background": "blue","head": "yellow"}
+{"name": "Doodle 956", "face": "straw","hair": "pink bucket cap","body": "green hoodie","background": "orange","head": "purple"}
+{"name": "Doodle 957", "face": "content","hair": "green bowlcut","body": "yellow backpack","background": "blue","head": "yellow","piercing": "airpod"}
+{"name": "Doodle 958", "face": "aviators with mustache","hair": "blue messy","body": "pink backpack","background": "pink","head": "gradient 2"}
+{"name": "Doodle 959", "face": "sunglasses","hair": "poopie","body": "striped sweater","background": "green","head": "med"}
+{"name": "Doodle 960", "face": "sad note","hair": "blue nerd","body": "purple sweater with satchel","background": "light blue","head": "green"}
+{"name": "Doodle 961", "face": "cobain glasses","hair": "green bowlcut","body": "pink puffer","background": "gradient 1","head": "pink","piercing": "pearl"}
+{"name": "Doodle 962", "face": "designer glasses","hair": "shaved","body": "yellow puffer","background": "gradient 4","head": "green","piercing": "hoop"}
+{"name": "Doodle 963", "face": "happy note","hair": "pink toque","body": "navy sweater","background": "green","head": "green"}
+{"name": "Doodle 964", "face": "grumpy","hair": "blue afro","body": "light blue puffer","background": "orange","head": "pink"}
+{"name": "Doodle 965", "face": "designer glasses","hair": "blue nerd","body": "pink hoodie","background": "iridescent","head": "purple","piercing": "hoop"}
+{"name": "Doodle 966", "face": "3d glasses","hair": "blue brushcut","body": "pink and green jacket","background": "grey","head": "pink","piercing": "airpod"}
+{"name": "Doodle 967", "face": "chill cig","hair": "pink tidy","body": "yellow backpack","background": "orange","head": "yellow"}
+{"name": "Doodle 968", "face": "designer glasses","hair": "blue afro","body": "rainbow striped sweater","background": "gradient 4","head": "pale"}
+{"name": "Doodle 969", "face": "in love","hair": "brown mullet","body": "orange puffer","background": "light blue","head": "pale"}
+{"name": "Doodle 970", "face": "in love","hair": "brown brushcut","body": "rainbow striped sweater","background": "purple","head": "blue","piercing": "pearl"}
+{"name": "Doodle 971", "face": "neutral note","hair": "harley","body": "light blue puffer","background": "pink","head": "gradient 2"}
+{"name": "Doodle 972", "face": "mustache","hair": "pink bucket cap","body": "yellow turtleneck","background": "orange","head": "yellow"}
+{"name": "Doodle 973", "face": "designer glasses","hair": "holographic brushcut","body": "blue turtleneck","background": "gradient 1","head": "yellow"}
+{"name": "Doodle 974", "face": "cobain glasses","hair": "pink headband","body": "pink fleece","background": "blue","head": "yellow","piercing": "hoop"}
+{"name": "Doodle 975", "face": "surprised","background": "gradient 4","head": "popsicle"}
+{"name": "Doodle 976", "face": "chill cig","hair": "pink toque","body": "grey hoodie","background": "gradient 3","head": "orange"}
+{"name": "Doodle 977", "face": "3d glasses","hair": "brown brushcut","body": "blue turtleneck","background": "gradient 2","head": "tan","piercing": "pearl"}
+{"name": "Doodle 978", "face": "sunglasses","hair": "blue afro","body": "combo 3 puffer","background": "grey","head": "tan","piercing": "hoop"}
+{"name": "Doodle 979", "face": "designer glasses","hair": "halo","body": "pink and green jacket","background": "space","head": "purple","piercing": "pearl"}
+{"name": "Doodle 980", "face": "straw","hair": "purple alfalfa","body": "yellow backpack","background": "gradient 1","head": "gradient 2"}
+{"name": "Doodle 981", "face": "mad note","hair": "yellow toque","body": "white turtleneck","background": "iridescent","head": "med","piercing": "pearl"}
+{"name": "Doodle 982", "face": "designer glasses","hair": "blue alfalfa","body": "spotted hoodie","background": "gradient 3","head": "purple"}
+{"name": "Doodle 983", "face": "cobain glasses","hair": "purple brushcut","body": "blue fleece","background": "grey","head": "orange"}
+{"name": "Doodle 984", "face": "designer glasses","hair": "purple alfalfa","body": "blue blazer","background": "gradient 2","head": "green","piercing": "hoop"}
+{"name": "Doodle 985", "face": "cobain glasses","hair": "purple alfalfa","body": "yellow backpack","background": "green","head": "orange"}
+{"name": "Doodle 986", "face": "surprised","hair": "purple brushcut","body": "white puffer","background": "light blue","head": "gradient 1"}
+{"name": "Doodle 987", "face": "content","hair": "pink bucket cap","body": "blue fleece","background": "space","head": "purple"}
+{"name": "Doodle 988", "face": "green beard","hair": "purple alfalfa","body": "pink backpack","background": "gradient 4","head": "blue"}
+{"name": "Doodle 989", "face": "blue check","hair": "beige bucket cap","body": "white sweater","background": "grey","head": "purple"}
+{"name": "Doodle 990", "face": "grumpy","hair": "purple cap","body": "blue backpack","background": "grey","head": "green"}
+{"name": "Doodle 991", "face": "blue beard","hair": "brown brushcut","body": "pink hoodie","background": "green","head": "yellow"}
+{"name": "Doodle 992", "face": "surprised","hair": "blue mohawk","body": "combo 1 puffer","background": "gradient 4","head": "gradient 2","piercing": "airpod"}
+{"name": "Doodle 993", "face": "content","hair": "blue toque","body": "pink backpack","background": "gradient 2","head": "blue","piercing": "hoop"}
+{"name": "Doodle 994", "face": "grumpy","hair": "sailor","body": "purple sweater with satchel","background": "holographic","head": "med"}
+{"name": "Doodle 995", "face": "surprised","hair": "blue messy","body": "white turtleneck","background": "blue","head": "green","piercing": "hoop"}
+{"name": "Doodle 996", "face": "cobain glasses","hair": "pink headband","body": "striped sweater","background": "holographic","head": "blue"}
+{"name": "Doodle 997", "face": "cobain glasses","hair": "green bowlcut","body": "blue backpack","background": "gradient 3","head": "tan","piercing": "pearl"}
+{"name": "Doodle 998", "face": "content","hair": "yellow backwards cap","body": "blue and yellow jacket","background": "green","head": "pale"}
+{"name": "Doodle 999", "face": "sunglasses","hair": "yellow bowlcut","body": "combo 2 puffer","background": "purple","head": "med","piercing": "pearl"}
+{"name": "Doodle 1000", "face": "in love","hair": "white bucket cap","body": "orange puffer","background": "orange","head": "med"}
+done
